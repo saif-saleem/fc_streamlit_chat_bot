@@ -1,0 +1,32 @@
+# Core
+python-dotenv
+tqdm
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-openai
+langchain-experimental
+
+# Vector DB
+chromadb
+
+# OpenAI embeddings
+openai
+tiktoken
+
+# PDF Loader
+pypdf
+
+# File loaders (for xlsb, kml, kmz support)
+xlrd
+openpyxl
+pyxlsb
+fastkml
+simplekml
+shapely
+
+# Utils
+requests

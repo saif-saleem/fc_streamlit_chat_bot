@@ -1,0 +1,25 @@
+# Ignore data PDFs
+app/data/
+
+# Ignore the entire embeddings directories (RECOMMENDED)
+app/embeddings_*/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore virtual environments
+venv/
+*.venv/
+.env/
+.envrc/
+
+# Ignore Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS / Windows metadata files
+.DS_Store
+Thumbs.db
