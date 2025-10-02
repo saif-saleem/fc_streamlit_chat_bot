@@ -1,6 +1,7 @@
 # Core
 python-dotenv
 tqdm
+pandas
 
 # LangChain ecosystem
 langchain
@@ -13,20 +14,24 @@ langchain-experimental
 # Vector DB
 chromadb
 
-# OpenAI embeddings
+# OpenAI + Tokenization
 openai
 tiktoken
 
-# PDF Loader
+# PDF / DOCX loaders
 pypdf
+docx2txt
 
-# File loaders (for xlsb, kml, kmz support)
+# Excel / Tabular loaders
 xlrd
 openpyxl
 pyxlsb
+
+# KML/KMZ
 fastkml
 simplekml
 shapely
 
-# Utils
+# Web/Utils
 requests
+streamlit

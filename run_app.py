@@ -9,19 +9,74 @@ with open("app/assets/flora_carbon_logo.png", "rb") as f:
 
 st.set_page_config(page_title="Flora Carbon GPT", layout="wide")
 
-# Styling for Markdown lists
+# ==== Dark Theme Styling ====
 st.markdown("""
 <style>
-ul, ol {
-    margin-left: 1.5em; 
-    margin-bottom: 0.5em;
+/* Global background */
+body, .stApp {
+    background-color: #0d0d0d;
+    color: #f0f0f0;
+    font-family: 'Segoe UI', sans-serif;
 }
-li {
-    margin-bottom: 0.3em;
+
+/* Title Styling */
+h1, h2, h3 {
+    color: #00f5c8 !important;
+    font-weight: 600;
+}
+
+/* Chat bubbles */
+.user-bubble {
+    background-color: #1a1a1a;
+    border-radius: 12px;
+    padding: 12px 18px;
+    margin: 8px 0;
+    color: #ffffff;
+    border: 1px solid #333;
+}
+.bot-bubble {
+    background: linear-gradient(135deg, #111111, #1e1e1e);
+    border-radius: 12px;
+    padding: 15px 20px;
+    margin: 8px 0;
+    color: #e6e6e6;
+    border-left: 4px solid #00f5c8;
+    box-shadow: 0px 0px 12px rgba(0, 245, 200, 0.2);
+}
+
+/* Buttons */
+div.stButton > button {
+    background: linear-gradient(135deg, #1a1a1a, #333333);
+    color: #00f5c8;
+    border: 1px solid #00f5c8;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.2s ease-in-out;
+}
+div.stButton > button:hover {
+    background: #00f5c8;
+    color: #0d0d0d;
+}
+
+/* Text Input */
+input[type="text"] {
+    background-color: #1a1a1a !important;
+    color: #f0f0f0 !important;
+    border: 1px solid #00f5c8 !important;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+/* Warning Box */
+.stAlert {
+    background-color: #1a1a1a;
+    border-left: 5px solid #ff4b4b;
+    color: #ffcccc;
 }
 </style>
 """, unsafe_allow_html=True)
 
+# ==== App Defaults ====
 defaults = {"chat_history": [], "main_query": "", "selected_standard": None, "ask_standard": False, "pending_query": None}
 for k, v in defaults.items():
     if k not in st.session_state:
@@ -33,15 +88,15 @@ if st.button("🆕 New Chat"):
         st.session_state[k] = defaults[k]
     st.rerun()
 
-# Header
+# ==== Header ====
 st.markdown(f"""
 <div style="display:flex;align-items:center;gap:1em;">
-  <img src="data:image/png;base64,{img_base64}" width="60">
-  <h1 style="color:#00f5c8;">Flora Carbon GPT</h1>
+  <img src="data:image/png;base64,{img_base64}" width="60" style="border-radius:10px;">
+  <h1>Flora Carbon GPT</h1>
 </div>
 """, unsafe_allow_html=True)
 
-# Query
+# ==== Query Input ====
 st.session_state.main_query = st.text_input("🔍 Ask a question:", value=st.session_state.main_query)
 
 if st.button("🔎 Search") and st.session_state.main_query:
@@ -49,7 +104,7 @@ if st.button("🔎 Search") and st.session_state.main_query:
         st.session_state.ask_standard = True
         st.session_state.pending_query = st.session_state.main_query
     else:
-        with st.spinner("Fetching answer..."):
+        with st.spinner("⚡ Fetching answer..."):
             res = get_answer(query=st.session_state.main_query, selected_standard=st.session_state.selected_standard)
         if res.get("clarification"):
             st.session_state.ask_standard = True
@@ -59,36 +114,28 @@ if st.button("🔎 Search") and st.session_state.main_query:
             st.session_state.chat_history.append(("answer", res))
             st.session_state.selected_standard = res.get("standard", st.session_state.selected_standard)
 
-# Standard chooser
+# ==== Standard Chooser ====
 if st.session_state.ask_standard:
     st.warning("👉 Please choose a standard for this query:")
-    cols = st.columns(4)
-    buttons = [("VCS", "vcs"), ("ICR", "icr"), ("PLAN_VIVO", "plan_vivo"), ("OTHER", "other")]
+    cols = st.columns(5)
+    buttons = [("GS", "gs"), ("VCS", "vcs"), ("ICR", "icr"), ("PLAN_VIVO", "plan_vivo"), ("OTHER", "other")]
     for i, (label, val) in enumerate(buttons):
         if cols[i].button(label):
             st.session_state.selected_standard = val
             st.session_state.ask_standard = False
-            with st.spinner(f"Answering using {label}..."):
+            with st.spinner(f"⚡ Answering using {label}..."):
                 res = get_answer(query=st.session_state.pending_query, selected_standard=val)
             st.session_state.chat_history.append(("question", f"{st.session_state.pending_query} ({label})"))
             st.session_state.chat_history.append(("answer", res))
             st.session_state.pending_query = None
             st.rerun()
 
-# Display chat
-# Display chat
+# ==== Chat Display ====
 for etype, entry in st.session_state.chat_history:
     if etype == "question":
-        st.markdown(f"🧑‍💬 **You:** {entry}")
+        st.markdown(f"<div class='user-bubble'>🧑‍💬 {entry}</div>", unsafe_allow_html=True)
     elif etype == "answer":
         if isinstance(entry, dict):
-            st.markdown("🌍 **Carbon GPT:**", unsafe_allow_html=True)
-            st.markdown(entry.get("answer", "No answer."), unsafe_allow_html=True)
-
-            #if entry.get("sources"):
-                #with st.expander("📚 Sources"):
-                    #for src in entry["sources"]:
-                        #st.write(f"- {src.get('file_name', 'Unknown Doc')} (Page {src.get('page','N/A')})")
-        else:  # fallback if old history still has strings
-            st.markdown("🌍 **Carbon GPT:**", unsafe_allow_html=True)
-            st.markdown(str(entry), unsafe_allow_html=True)
+            st.markdown(f"<div class='bot-bubble'>🌍 {entry.get('answer', 'No answer.')}</div>", unsafe_allow_html=True)
+        else:
+            st.markdown(f"<div class='bot-bubble'>🌍 {str(entry)}</div>", unsafe_allow_html=True)

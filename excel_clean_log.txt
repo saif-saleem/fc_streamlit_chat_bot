@@ -1,0 +1,2166 @@
+📊 Loading tabular: 301_V1.0_CR_SUD_SDG-Assessment-Tool.xlsx with 5 sheet(s)
+➡️ Sheet 'Tool Introduction' cleaned: -1 rows, -1 cols | kept 5 rows, 1 cols
+➡️ Sheet 'Input Sheet' cleaned: -6 rows, -11 cols | kept 54 rows, 1 cols
+➡️ Sheet 'Urban services and impact' cleaned: -117 rows, -18 cols | kept 30 rows, 2 cols
+➡️ Sheet 'SDGs & Indicators' cleaned: -0 rows, -10 cols | kept 190 rows, 1 cols
+⚠️ Skipping empty sheet: 'Others'
+📊 Loading tabular: 301_V1.0_SUD_Governance-and-Management-Systems_Tool.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Introduction and How to use'
+⚠️ Skipping empty sheet: 'Criteria'
+📊 Loading tabular: 427_V2.11_List-of-eligible-CDM-GS-methodologies.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'Gold Standard meths'
+➡️ Sheet 'CDM meths small-scale (AMS)' cleaned: -3 rows, -7 cols | kept 105 rows, 1 cols
+➡️ Sheet 'CDM meths agriculture (AMS)' cleaned: -3 rows, -7 cols | kept 7 rows, 1 cols
+➡️ Sheet 'CDM meths large-scale (AM+ACM)' cleaned: -3 rows, -7 cols | kept 123 rows, 1 cols
+📊 Loading tabular: 180724_CO2_certificates_exante.xlsx with 10 sheet(s)
+➡️ Sheet 'CO2_certificates_Biomass' cleaned: -0 rows, -10 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Biomass' cleaned: -4 rows, -11 cols | kept 36 rows, 11 cols
+➡️ Sheet 'CO2_certificates_Veneer' cleaned: -0 rows, -11 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Veneer' cleaned: -0 rows, -8 cols | kept 35 rows, 10 cols
+➡️ Sheet 'CO2_certificates_total 25' cleaned: -0 rows, -3 cols | kept 34 rows, 12 cols
+➡️ Sheet 'CO2_certificates_total' cleaned: -8 rows, -4 cols | kept 46 rows, 13 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Other emissions' cleaned: -0 rows, -8 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Plantation_targets' cleaned: -0 rows, -5 cols | kept 35 rows, 10 cols
+➡️ Sheet 'RC_E' cleaned: -1 rows, -9 cols | kept 44 rows, 2 cols
+📊 Loading tabular: 190130_ER ESTIMATIONS_mpr.xlsx with 12 sheet(s)
+⚠️ Skipping empty sheet: 'Areas'
+⚠️ Skipping empty sheet: 'MAI'
+⚠️ Skipping empty sheet: 'Default values'
+⚠️ Skipping empty sheet: 'Thinning_Prunning'
+⚠️ Skipping empty sheet: 'Wood Lower'
+⚠️ Skipping empty sheet: 'Wood Middle'
+⚠️ Skipping empty sheet: 'Wood Upper'
+⚠️ Skipping empty sheet: 'Agro Lower'
+⚠️ Skipping empty sheet: 'Agro Middle'
+⚠️ Skipping empty sheet: 'Agro Upper'
+⚠️ Skipping empty sheet: 'Summary'
+➡️ Sheet 'ER calculations' cleaned: -1 rows, -7 cols | kept 41 rows, 12 cols
+📊 Loading tabular: 202001_Ex-ante estimations_IssuanceControlTool_v1.0.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Instructions'
+➡️ Sheet 'Ex-Ante CO2Fixation' cleaned: -0 rows, -147 cols | kept 54 rows, 1 cols
+📊 Loading tabular: 2021-05-06 Mt Elgon project data and ER calculation_BSc.xlsx with 9 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 13 rows, 1 cols
+➡️ Sheet 'Database with ER-Calculations' cleaned: -0 rows, -13 cols | kept 1240 rows, 108 cols
+⚠️ Skipping empty sheet: 'validated_farmers'
+➡️ Sheet 'Background info - groups' cleaned: -0 rows, -0 cols | kept 823 rows, 18 cols
+➡️ Sheet 'Background info - farmers' cleaned: -0 rows, -0 cols | kept 11356 rows, 19 cols
+➡️ Sheet 'Background info - gps_maps' cleaned: -0 rows, -0 cols | kept 19174 rows, 11 cols
+➡️ Sheet 'Background in-2018-19 ABMS data' cleaned: -1 rows, -6 cols | kept 1103 rows, 88 cols
+➡️ Sheet 'Background info - group removed' cleaned: -0 rows, -1 cols | kept 645 rows, 18 cols
+➡️ Sheet 'Background info-farmers removed' cleaned: -0 rows, -0 cols | kept 10184 rows, 19 cols
+📊 Loading tabular: 20231214 calculations revised planted areas total_design_certification.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'Table for PDD'
+⚠️ Skipping empty sheet: 'Overview'
+⚠️ Skipping empty sheet: 'Baseline values'
+➡️ Sheet 'Project emissions' cleaned: -0 rows, -5 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Pinus - bush per ha' cleaned: -1 rows, -2 cols | kept 44 rows, 8 cols
+➡️ Sheet 'Pinus - cultivated per ha' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Pinus - grassland' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Alnus - bush per ha' cleaned: -7 rows, -14 cols | kept 47 rows, 1 cols
+➡️ Sheet 'Agro - cultivated per ha' cleaned: -2 rows, -14 cols | kept 50 rows, 1 cols
+➡️ Sheet 'Agro - pasture per ha' cleaned: -2 rows, -14 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Enrich per ha alnus' cleaned: -4 rows, -13 cols | kept 49 rows, 1 cols
+➡️ Sheet ' ANR per ha on BUSH' cleaned: -2 rows, -9 cols | kept 45 rows, 1 cols
+➡️ Sheet ' ANR per ha on MIx' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+➡️ Sheet ' ANR per ha on GRA' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+⚠️ Skipping empty sheet: '% species'
+📊 Loading tabular: 301_V1.0_CR_SUD_SDG-Assessment-Tool.xlsx with 5 sheet(s)
+➡️ Sheet 'Tool Introduction' cleaned: -1 rows, -1 cols | kept 5 rows, 1 cols
+➡️ Sheet 'Input Sheet' cleaned: -6 rows, -11 cols | kept 54 rows, 1 cols
+➡️ Sheet 'Urban services and impact' cleaned: -117 rows, -18 cols | kept 30 rows, 2 cols
+➡️ Sheet 'SDGs & Indicators' cleaned: -0 rows, -10 cols | kept 190 rows, 1 cols
+⚠️ Skipping empty sheet: 'Others'
+📊 Loading tabular: 301_V1.0_SUD_Governance-and-Management-Systems_Tool.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Introduction and How to use'
+⚠️ Skipping empty sheet: 'Criteria'
+📊 Loading tabular: 427_V2.11_List-of-eligible-CDM-GS-methodologies.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'Gold Standard meths'
+➡️ Sheet 'CDM meths small-scale (AMS)' cleaned: -3 rows, -7 cols | kept 105 rows, 1 cols
+➡️ Sheet 'CDM meths agriculture (AMS)' cleaned: -3 rows, -7 cols | kept 7 rows, 1 cols
+➡️ Sheet 'CDM meths large-scale (AM+ACM)' cleaned: -3 rows, -7 cols | kept 123 rows, 1 cols
+📊 Loading tabular: 180724_CO2_certificates_exante.xlsx with 10 sheet(s)
+➡️ Sheet 'CO2_certificates_Biomass' cleaned: -0 rows, -10 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Biomass' cleaned: -4 rows, -11 cols | kept 36 rows, 11 cols
+➡️ Sheet 'CO2_certificates_Veneer' cleaned: -0 rows, -11 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Veneer' cleaned: -0 rows, -8 cols | kept 35 rows, 10 cols
+➡️ Sheet 'CO2_certificates_total 25' cleaned: -0 rows, -3 cols | kept 34 rows, 12 cols
+➡️ Sheet 'CO2_certificates_total' cleaned: -8 rows, -4 cols | kept 46 rows, 13 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Other emissions' cleaned: -0 rows, -8 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Plantation_targets' cleaned: -0 rows, -5 cols | kept 35 rows, 10 cols
+➡️ Sheet 'RC_E' cleaned: -1 rows, -9 cols | kept 44 rows, 2 cols
+📊 Loading tabular: 190130_ER ESTIMATIONS_mpr.xlsx with 12 sheet(s)
+⚠️ Skipping empty sheet: 'Areas'
+⚠️ Skipping empty sheet: 'MAI'
+⚠️ Skipping empty sheet: 'Default values'
+⚠️ Skipping empty sheet: 'Thinning_Prunning'
+⚠️ Skipping empty sheet: 'Wood Lower'
+⚠️ Skipping empty sheet: 'Wood Middle'
+⚠️ Skipping empty sheet: 'Wood Upper'
+⚠️ Skipping empty sheet: 'Agro Lower'
+⚠️ Skipping empty sheet: 'Agro Middle'
+⚠️ Skipping empty sheet: 'Agro Upper'
+⚠️ Skipping empty sheet: 'Summary'
+➡️ Sheet 'ER calculations' cleaned: -1 rows, -7 cols | kept 41 rows, 12 cols
+📊 Loading tabular: 202001_Ex-ante estimations_IssuanceControlTool_v1.0.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Instructions'
+➡️ Sheet 'Ex-Ante CO2Fixation' cleaned: -0 rows, -147 cols | kept 54 rows, 1 cols
+📊 Loading tabular: 2021-05-06 Mt Elgon project data and ER calculation_BSc.xlsx with 9 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 13 rows, 1 cols
+➡️ Sheet 'Database with ER-Calculations' cleaned: -0 rows, -13 cols | kept 1240 rows, 108 cols
+⚠️ Skipping empty sheet: 'validated_farmers'
+➡️ Sheet 'Background info - groups' cleaned: -0 rows, -0 cols | kept 823 rows, 18 cols
+➡️ Sheet 'Background info - farmers' cleaned: -0 rows, -0 cols | kept 11356 rows, 19 cols
+➡️ Sheet 'Background info - gps_maps' cleaned: -0 rows, -0 cols | kept 19174 rows, 11 cols
+➡️ Sheet 'Background in-2018-19 ABMS data' cleaned: -1 rows, -6 cols | kept 1103 rows, 88 cols
+➡️ Sheet 'Background info - group removed' cleaned: -0 rows, -1 cols | kept 645 rows, 18 cols
+➡️ Sheet 'Background info-farmers removed' cleaned: -0 rows, -0 cols | kept 10184 rows, 19 cols
+📊 Loading tabular: 20231214 calculations revised planted areas total_design_certification.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'Table for PDD'
+⚠️ Skipping empty sheet: 'Overview'
+⚠️ Skipping empty sheet: 'Baseline values'
+➡️ Sheet 'Project emissions' cleaned: -0 rows, -5 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Pinus - bush per ha' cleaned: -1 rows, -2 cols | kept 44 rows, 8 cols
+➡️ Sheet 'Pinus - cultivated per ha' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Pinus - grassland' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Alnus - bush per ha' cleaned: -7 rows, -14 cols | kept 47 rows, 1 cols
+➡️ Sheet 'Agro - cultivated per ha' cleaned: -2 rows, -14 cols | kept 50 rows, 1 cols
+➡️ Sheet 'Agro - pasture per ha' cleaned: -2 rows, -14 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Enrich per ha alnus' cleaned: -4 rows, -13 cols | kept 49 rows, 1 cols
+➡️ Sheet ' ANR per ha on BUSH' cleaned: -2 rows, -9 cols | kept 45 rows, 1 cols
+➡️ Sheet ' ANR per ha on MIx' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+➡️ Sheet ' ANR per ha on GRA' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+⚠️ Skipping empty sheet: '% species'
+📊 Loading tabular: 430_V1.3_IQ_SDG-Impact-tool - V2.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -64 rows, -16383 cols | kept 55 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -147 rows, -27 cols | kept 235 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: B.1_Emission reduction_GS11648_Ymbu_v3.0_final.xlsx with 5 sheet(s)
+➡️ Sheet 'Species data' cleaned: -14 rows, -9 cols | kept 108 rows, 1 cols
+⚠️ Skipping empty sheet: 'AR_eligibility'
+➡️ Sheet 'ER_Ex-ante ' cleaned: -2 rows, -26 cols | kept 41 rows, 14 cols
+⚠️ Skipping empty sheet: 'IPCC06'
+⚠️ Skipping empty sheet: 'IPCC19'
+📊 Loading tabular: Bagepalli AR - GS VER Calculations-Vintage years calculations_KB.xlsx with 3 sheet(s)
+⚠️ Skipping empty sheet: 'Summary'
+⚠️ Skipping empty sheet: 'Consolidated'
+➡️ Sheet 'Vintage wise Calculations' cleaned: -0 rows, -35 cols | kept 997 rows, 1 cols
+📊 Loading tabular: Baseline_covers_eligible_areas.xlsx with 6 sheet(s)
+➡️ Sheet 'Conteo' cleaned: -0 rows, -0 cols | kept 788 rows, 18 cols
+➡️ Sheet 'SouthPole' cleaned: -0 rows, -0 cols | kept 788 rows, 38 cols
+➡️ Sheet 'SouthPole II' cleaned: -0 rows, -0 cols | kept 570 rows, 21 cols
+➡️ Sheet 'SouthPole III' cleaned: -0 rows, -0 cols | kept 571 rows, 44 cols
+⚠️ Skipping empty sheet: 'Pivot Table 1'
+➡️ Sheet 'Summary' cleaned: -0 rows, -9 cols | kept 43 rows, 12 cols
+📊 Loading tabular: Carbon estimations ex-ante_plantations 2009-2018_v2.0.xlsx with 22 sheet(s)
+➡️ Sheet 'Strates MU' cleaned: -10 rows, -120 cols | kept 96 rows, 4 cols
+⚠️ Skipping empty sheet: 'Parameters'
+➡️ Sheet 'Harvesting schemes' cleaned: -19 rows, -1 cols | kept 56 rows, 34 cols
+➡️ Sheet 'Projects MU VOL - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projects MU CO2 - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projections MU By' cleaned: -0 rows, -26 cols | kept 5903 rows, 32 cols
+➡️ Sheet 'Summary By' cleaned: -1 rows, -1 cols | kept 22 rows, 2 cols
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet3' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet4' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Summary Vol' cleaned: -2 rows, -6 cols | kept 38 rows, 3 cols
+➡️ Sheet 'Sheet1' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet5' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet6' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Summary CO2' cleaned: -22 rows, -12 cols | kept 182 rows, 6 cols
+⚠️ Skipping empty sheet: 'Total Results '
+➡️ Sheet 'SE' cleaned: -0 rows, -4 cols | kept 29 rows, 3 cols
+➡️ Sheet 'EE1' cleaned: -12 rows, -21 cols | kept 58 rows, 1 cols
+➡️ Sheet 'EE2' cleaned: -21 rows, -24 cols | kept 109 rows, 1 cols
+➡️ Sheet 'SE2 Charbon' cleaned: -19 rows, -24 cols | kept 110 rows, 1 cols
+➡️ Sheet 'Feuil1' cleaned: -1 rows, -11 cols | kept 30 rows, 2 cols
+📊 Loading tabular: Carbon_fixation_v1.6 (1).xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: Carbon_fixation_v1.6.xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: CO2 fixation_model_Offa_Public Version.xlsx with 20 sheet(s)
+➡️ Sheet 'Overview' cleaned: -8 rows, -2 cols | kept 20 rows, 1 cols
+➡️ Sheet 'Total CO2 Fixation Summary' cleaned: -0 rows, -12 cols | kept 35 rows, 1 cols
+➡️ Sheet 'Baseline CO2 Data' cleaned: -4 rows, -10 cols | kept 24 rows, 1 cols
+➡️ Sheet '1. FMNR Project Area' cleaned: -5 rows, -2 cols | kept 6 rows, 1 cols
+➡️ Sheet '2. FMNR CO2 Fixation Summary' cleaned: -1 rows, -16 cols | kept 37 rows, 1 cols
+➡️ Sheet '3. FMNR Growth Model' cleaned: -11 rows, -6 cols | kept 85 rows, 1 cols
+➡️ Sheet '4. FMNR Default Factors' cleaned: -1 rows, -3 cols | kept 5 rows, 1 cols
+⚠️ Skipping empty sheet: '5. Humbo reference data'
+➡️ Sheet '1. EP Project Area' cleaned: -2 rows, -6 cols | kept 15 rows, 2 cols
+➡️ Sheet '2. EP_CO2 Fixation Summary' cleaned: -2 rows, -11 cols | kept 34 rows, 5 cols
+➡️ Sheet '3. EP_G. robusta Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_O. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_T. brownii Growth Model' cleaned: -0 rows, -5 cols | kept 32 rows, 9 cols
+➡️ Sheet '3.EP_A. abyssinica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_M. indica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3.EP_M. macrostachyusGrowthMode' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. siamea Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+⚠️ Skipping empty sheet: '4.EP GrowthRateDataReferences'
+➡️ Sheet '5. EP Factors&Assumptions' cleaned: -2 rows, -3 cols | kept 26 rows, 1 cols
+📊 Loading tabular: ER_CF.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'C seq Ex-ante model'
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -1 rows, -0 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Fertiliser' cleaned: -0 rows, -0 cols | kept 1 rows, 3 cols
+📊 Loading tabular: ER_Sheet_offset-GHG Removals Calculations-V4.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'INPUT and SUMMARY'
+⚠️ Skipping empty sheet: 'Area&MAI'
+➡️ Sheet 'Cal-AGB' cleaned: -1 rows, -34 cols | kept 65 rows, 1 cols
+⚠️ Skipping empty sheet: 'MAI'
+📊 Loading tabular: Ex ante CO2-captation_29-10-24.xlsx with 3 sheet(s)
+➡️ Sheet 'Total' cleaned: -1 rows, -22 cols | kept 61 rows, 2 cols
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKasongo_SwaYamfu' (80.9% NaN)
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKahumba_Kobo' (82.1% NaN)
+📊 Loading tabular: Ex ante projections.xlsx with 4 sheet(s)
+➡️ Sheet 'MU' cleaned: -0 rows, -8 cols | kept 54 rows, 14 cols
+➡️ Sheet 'AldeaForestal' cleaned: -0 rows, -9 cols | kept 12 rows, 2 cols
+➡️ Sheet 'Inverbosques' cleaned: -0 rows, -9 cols | kept 45 rows, 2 cols
+➡️ Sheet 'Ex ante projection' cleaned: -0 rows, -58 cols | kept 37 rows, 6 cols
+📊 Loading tabular: Ex-ante estimations_ICT_ 3012022.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: Ex-ante estimations_Issuance Control Tool_Nica Forestal 14.11.2019.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: GHG Removals - TERRAGRN-PDD-V4-03112023.xlsx with 8 sheet(s)
+⚠️ Skipping empty sheet: 'Document Controls'
+➡️ Sheet 'INPUT and SUMMARY' cleaned: -10 rows, -15 cols | kept 149 rows, 1 cols
+⚠️ Skipping empty sheet: 'Assumptions & Glossary'
+➡️ Sheet 'Literature Values' cleaned: -42 rows, -21 cols | kept 37 rows, 1 cols
+➡️ Sheet 'Per ha biomass' cleaned: -3 rows, -63 cols | kept 101 rows, 1 cols
+➡️ Sheet 'Area' cleaned: -0 rows, -2 cols | kept 32 rows, 30 cols
+➡️ Sheet 'Cal-AGB+BGB-Bamboo' cleaned: -7 rows, -32 cols | kept 98 rows, 1 cols
+➡️ Sheet 'Cal-AGB+BGB-Fruit Trees' cleaned: -2 rows, -32 cols | kept 65 rows, 1 cols
+📊 Loading tabular: GHG Removals -SUVIDHA-VPA-1_V3.xlsb with 8 sheet(s)
+➡️ Sheet 'Summary' cleaned: -10 rows, -15 cols | kept 108 rows, 2 cols
+⚠️ Skipping empty sheet: 'Other Emissions'
+➡️ Sheet 'REV-Assam' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-Odisha' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-UK' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-HP' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+⚠️ Skipping empty sheet: 'Area, MAI,SOC'
+⚠️ Skipping empty sheet: 'AGB'
+📊 Loading tabular: Halba Ecuador carbon assessment clean version_NOV23.xlsx with 20 sheet(s)
+➡️ Sheet 'Read_me' cleaned: -0 rows, -2 cols | kept 19 rows, 1 cols
+➡️ Sheet 'Table for PDD' cleaned: -0 rows, -19 cols | kept 35 rows, 2 cols
+➡️ Sheet 'Overview' cleaned: -2 rows, -87 cols | kept 50 rows, 2 cols
+➡️ Sheet '1.1. Baseline areas' cleaned: -3 rows, -9 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: '1.2. Baseline values'
+➡️ Sheet '1.3.Cocoa monoculture baseline ' cleaned: -4 rows, -13 cols | kept 70 rows, 7 cols
+⚠️ Skipping empty sheet: '1.4.Cocoa_with_trees_fruit_orch'
+➡️ Sheet '2.1.S.parahybum' cleaned: -8 rows, -6 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.2.S.macrophylla' cleaned: -5 rows, -4 cols | kept 49 rows, 2 cols
+➡️ Sheet '2.3.G.arborea' cleaned: -7 rows, -5 cols | kept 93 rows, 1 cols
+➡️ Sheet '2.4.H.chrysanthus' cleaned: -7 rows, -6 cols | kept 65 rows, 1 cols
+➡️ Sheet '2.5.L.nobilis' cleaned: -6 rows, -6 cols | kept 48 rows, 1 cols
+➡️ Sheet '2.6.T.cumingiana' cleaned: -6 rows, -5 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.7.Ingaspp' cleaned: -7 rows, -6 cols | kept 59 rows, 1 cols
+➡️ Sheet '2.8.C.odorata' cleaned: -4 rows, -23 cols | kept 90 rows, 2 cols
+➡️ Sheet '2.9.Q.petraea' cleaned: -5 rows, -2 cols | kept 42 rows, 3 cols
+➡️ Sheet '2.10.Fruit trees' cleaned: -2 rows, -31 cols | kept 44 rows, 1 cols
+➡️ Sheet '2.11.Cocoa ex-ante' cleaned: -2 rows, -7 cols | kept 32 rows, 1 cols
+➡️ Sheet ' 3.1. Model per ha pre2020' cleaned: -0 rows, -15 cols | kept 48 rows, 4 cols
+➡️ Sheet ' 3.2. Model per ha post2020' cleaned: -2 rows, -14 cols | kept 43 rows, 5 cols
+📊 Loading tabular: Humbo Fuelwood and Livestock Monitoring.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Livestock population 2022'
+⚠️ Skipping empty sheet: 'Fuel Wood utilization'
+📊 Loading tabular: Mt_Elgon_Dairy_ER_Quantification.xlsx with 6 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 9 rows, 1 cols
+➡️ Sheet '2018' cleaned: -0 rows, -11 cols | kept 988 rows, 109 cols
+⚠️ Skipping empty sheet: '2019'
+➡️ Sheet '2020' cleaned: -0 rows, -11 cols | kept 940 rows, 109 cols
+➡️ Sheet 'Mt_elgon_Farmers with farm trac' cleaned: -0 rows, -0 cols | kept 10742 rows, 8 cols
+➡️ Sheet 'Groups with faarm trac' cleaned: -0 rows, -1 cols | kept 1284 rows, 4 cols
+📊 Loading tabular: Piura_analysis_8Mar2019_final.xlsx with 10 sheet(s)
+➡️ Sheet 'definition_strata' cleaned: -3 rows, -26 cols | kept 215 rows, 22 cols
+➡️ Sheet 'strata_areas' cleaned: -0 rows, -3 cols | kept 64 rows, 9 cols
+➡️ Sheet 'precision' cleaned: -6 rows, -20 cols | kept 13 rows, 10 cols
+⚠️ Skipping empty sheet: 'details on precision calc.'
+➡️ Sheet 'CO2fix_growthmodels_2010_12' cleaned: -19 rows, -28 cols | kept 114 rows, 2 cols
+⚠️ Skipping empty sheet: 'issuance_claimed'
+⚠️ Skipping empty sheet: 'growthmodels 2013_14 areas'
+⚠️ Skipping empty sheet: 'estimate_CO2fixation_2035'
+➡️ Sheet 'MUs_2013_14' cleaned: -2 rows, -0 cols | kept 39 rows, 8 cols
+➡️ Sheet 'plots results from inventory' cleaned: -0 rows, -1 cols | kept 205 rows, 13 cols
+📊 Loading tabular: Revised Kikonda Carbon Calculations.xlsx with 18 sheet(s)
+⚠️ Skipping empty sheet: 'Model info'
+⚠️ Skipping empty sheet: 'Table of Content'
+⚠️ Skipping empty sheet: '1. Values and parameters'
+➡️ Sheet 'Exante_ha_V_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+➡️ Sheet 'Exante_ha_V_incr_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+⚠️ Skipping empty sheet: '2.1 Growth model-Volume'
+⚠️ Skipping empty sheet: '2.2 Growth model-Volume incr'
+⚠️ Skipping empty sheet: '2.3 Growth model-V incr LTA'
+⚠️ Skipping empty sheet: '2.4 Growth model-CO2 increments'
+⚠️ Skipping empty sheet: '2.5 Growth model-CO2 incr LTA'
+⚠️ Skipping empty sheet: '2.6 Growth model-Net ER'
+⚠️ Skipping empty sheet: '2.7 Growth mod-Net ER prec cor'
+⚠️ Skipping empty sheet: '3. Baseline, leak, oth emission'
+⚠️ Skipping empty sheet: '4.1 Summary ex ante'
+⚠️ Skipping empty sheet: '4.2 Summary ex post'
+⚠️ Skipping empty sheet: '4.3 Ex post 2016 vs 2021'
+⚠️ Skipping empty sheet: '4.4 Summary VER'
+⚠️ Skipping empty sheet: 'Sheet8'
+📊 Loading tabular: SDG-Impact-tool-TERRAGRN.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -154 rows, -27 cols | kept 228 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: Tree species assessment.xlsx with 1 sheet(s)
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -1 cols | kept 87 rows, 3 cols
+📊 Loading tabular: V1.0_IQ_SDG-Impact-Tool_GS11648_v1.0 _Bulindi Chimpanzee Habitat Restoration Project.xlsx with 9 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -11 rows, -16375 cols | kept 87 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -29 rows, -27 cols | kept 353 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: Verification2023_CarbonCalculations(1).xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: Verification2023_CarbonCalculations.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: 428.1_V1.0_Activity-and-Baseline-Monitoring-Survey-Template.xlsx with 2 sheet(s)
+➡️ Sheet 'Input data' cleaned: -14 rows, -9 cols | kept 11 rows, 4 cols
+➡️ Sheet 'Data and Parameters' cleaned: -0 rows, -13 cols | kept 22 rows, 2 cols
+📊 Loading tabular: 428.2_V1.0_Uncertainty-Calculation-Tool.xlsx with 2 sheet(s)
+➡️ Sheet 'Uncertainty' cleaned: -7 rows, -7 cols | kept 20 rows, 2 cols
+⚠️ Skipping empty sheet: 'data'
+📊 Loading tabular: 301_V1.0_CR_SUD_SDG-Assessment-Tool.xlsx with 5 sheet(s)
+➡️ Sheet 'Tool Introduction' cleaned: -1 rows, -1 cols | kept 5 rows, 1 cols
+➡️ Sheet 'Input Sheet' cleaned: -6 rows, -11 cols | kept 54 rows, 1 cols
+➡️ Sheet 'Urban services and impact' cleaned: -117 rows, -18 cols | kept 30 rows, 2 cols
+➡️ Sheet 'SDGs & Indicators' cleaned: -0 rows, -10 cols | kept 190 rows, 1 cols
+⚠️ Skipping empty sheet: 'Others'
+📊 Loading tabular: 301_V1.0_SUD_Governance-and-Management-Systems_Tool.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Introduction and How to use'
+⚠️ Skipping empty sheet: 'Criteria'
+📊 Loading tabular: 427_V2.11_List-of-eligible-CDM-GS-methodologies.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'Gold Standard meths'
+➡️ Sheet 'CDM meths small-scale (AMS)' cleaned: -3 rows, -7 cols | kept 105 rows, 1 cols
+➡️ Sheet 'CDM meths agriculture (AMS)' cleaned: -3 rows, -7 cols | kept 7 rows, 1 cols
+➡️ Sheet 'CDM meths large-scale (AM+ACM)' cleaned: -3 rows, -7 cols | kept 123 rows, 1 cols
+📊 Loading tabular: 180724_CO2_certificates_exante.xlsx with 10 sheet(s)
+➡️ Sheet 'CO2_certificates_Biomass' cleaned: -0 rows, -10 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Biomass' cleaned: -4 rows, -11 cols | kept 36 rows, 11 cols
+➡️ Sheet 'CO2_certificates_Veneer' cleaned: -0 rows, -11 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Veneer' cleaned: -0 rows, -8 cols | kept 35 rows, 10 cols
+➡️ Sheet 'CO2_certificates_total 25' cleaned: -0 rows, -3 cols | kept 34 rows, 12 cols
+➡️ Sheet 'CO2_certificates_total' cleaned: -8 rows, -4 cols | kept 46 rows, 13 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Other emissions' cleaned: -0 rows, -8 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Plantation_targets' cleaned: -0 rows, -5 cols | kept 35 rows, 10 cols
+➡️ Sheet 'RC_E' cleaned: -1 rows, -9 cols | kept 44 rows, 2 cols
+📊 Loading tabular: 190130_ER ESTIMATIONS_mpr.xlsx with 12 sheet(s)
+⚠️ Skipping empty sheet: 'Areas'
+⚠️ Skipping empty sheet: 'MAI'
+⚠️ Skipping empty sheet: 'Default values'
+⚠️ Skipping empty sheet: 'Thinning_Prunning'
+⚠️ Skipping empty sheet: 'Wood Lower'
+⚠️ Skipping empty sheet: 'Wood Middle'
+⚠️ Skipping empty sheet: 'Wood Upper'
+⚠️ Skipping empty sheet: 'Agro Lower'
+⚠️ Skipping empty sheet: 'Agro Middle'
+⚠️ Skipping empty sheet: 'Agro Upper'
+⚠️ Skipping empty sheet: 'Summary'
+➡️ Sheet 'ER calculations' cleaned: -1 rows, -7 cols | kept 41 rows, 12 cols
+📊 Loading tabular: 202001_Ex-ante estimations_IssuanceControlTool_v1.0.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Instructions'
+➡️ Sheet 'Ex-Ante CO2Fixation' cleaned: -0 rows, -147 cols | kept 54 rows, 1 cols
+📊 Loading tabular: 2021-05-06 Mt Elgon project data and ER calculation_BSc.xlsx with 9 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 13 rows, 1 cols
+➡️ Sheet 'Database with ER-Calculations' cleaned: -0 rows, -13 cols | kept 1240 rows, 108 cols
+⚠️ Skipping empty sheet: 'validated_farmers'
+➡️ Sheet 'Background info - groups' cleaned: -0 rows, -0 cols | kept 823 rows, 18 cols
+➡️ Sheet 'Background info - farmers' cleaned: -0 rows, -0 cols | kept 11356 rows, 19 cols
+➡️ Sheet 'Background info - gps_maps' cleaned: -0 rows, -0 cols | kept 19174 rows, 11 cols
+➡️ Sheet 'Background in-2018-19 ABMS data' cleaned: -1 rows, -6 cols | kept 1103 rows, 88 cols
+➡️ Sheet 'Background info - group removed' cleaned: -0 rows, -1 cols | kept 645 rows, 18 cols
+➡️ Sheet 'Background info-farmers removed' cleaned: -0 rows, -0 cols | kept 10184 rows, 19 cols
+📊 Loading tabular: 20231214 calculations revised planted areas total_design_certification.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'Table for PDD'
+⚠️ Skipping empty sheet: 'Overview'
+⚠️ Skipping empty sheet: 'Baseline values'
+➡️ Sheet 'Project emissions' cleaned: -0 rows, -5 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Pinus - bush per ha' cleaned: -1 rows, -2 cols | kept 44 rows, 8 cols
+➡️ Sheet 'Pinus - cultivated per ha' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Pinus - grassland' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Alnus - bush per ha' cleaned: -7 rows, -14 cols | kept 47 rows, 1 cols
+➡️ Sheet 'Agro - cultivated per ha' cleaned: -2 rows, -14 cols | kept 50 rows, 1 cols
+➡️ Sheet 'Agro - pasture per ha' cleaned: -2 rows, -14 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Enrich per ha alnus' cleaned: -4 rows, -13 cols | kept 49 rows, 1 cols
+➡️ Sheet ' ANR per ha on BUSH' cleaned: -2 rows, -9 cols | kept 45 rows, 1 cols
+➡️ Sheet ' ANR per ha on MIx' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+➡️ Sheet ' ANR per ha on GRA' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+⚠️ Skipping empty sheet: '% species'
+📊 Loading tabular: 430_V1.3_IQ_SDG-Impact-tool - V2.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -64 rows, -16383 cols | kept 55 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -147 rows, -27 cols | kept 235 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: B.1_Emission reduction_GS11648_Ymbu_v3.0_final.xlsx with 5 sheet(s)
+➡️ Sheet 'Species data' cleaned: -14 rows, -9 cols | kept 108 rows, 1 cols
+⚠️ Skipping empty sheet: 'AR_eligibility'
+➡️ Sheet 'ER_Ex-ante ' cleaned: -2 rows, -26 cols | kept 41 rows, 14 cols
+⚠️ Skipping empty sheet: 'IPCC06'
+⚠️ Skipping empty sheet: 'IPCC19'
+📊 Loading tabular: Bagepalli AR - GS VER Calculations-Vintage years calculations_KB.xlsx with 3 sheet(s)
+⚠️ Skipping empty sheet: 'Summary'
+⚠️ Skipping empty sheet: 'Consolidated'
+➡️ Sheet 'Vintage wise Calculations' cleaned: -0 rows, -35 cols | kept 997 rows, 1 cols
+📊 Loading tabular: Baseline_covers_eligible_areas.xlsx with 6 sheet(s)
+➡️ Sheet 'Conteo' cleaned: -0 rows, -0 cols | kept 788 rows, 18 cols
+➡️ Sheet 'SouthPole' cleaned: -0 rows, -0 cols | kept 788 rows, 38 cols
+➡️ Sheet 'SouthPole II' cleaned: -0 rows, -0 cols | kept 570 rows, 21 cols
+➡️ Sheet 'SouthPole III' cleaned: -0 rows, -0 cols | kept 571 rows, 44 cols
+⚠️ Skipping empty sheet: 'Pivot Table 1'
+➡️ Sheet 'Summary' cleaned: -0 rows, -9 cols | kept 43 rows, 12 cols
+📊 Loading tabular: Carbon estimations ex-ante_plantations 2009-2018_v2.0.xlsx with 22 sheet(s)
+➡️ Sheet 'Strates MU' cleaned: -10 rows, -120 cols | kept 96 rows, 4 cols
+⚠️ Skipping empty sheet: 'Parameters'
+➡️ Sheet 'Harvesting schemes' cleaned: -19 rows, -1 cols | kept 56 rows, 34 cols
+➡️ Sheet 'Projects MU VOL - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projects MU CO2 - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projections MU By' cleaned: -0 rows, -26 cols | kept 5903 rows, 32 cols
+➡️ Sheet 'Summary By' cleaned: -1 rows, -1 cols | kept 22 rows, 2 cols
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet3' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet4' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Summary Vol' cleaned: -2 rows, -6 cols | kept 38 rows, 3 cols
+➡️ Sheet 'Sheet1' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet5' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet6' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Summary CO2' cleaned: -22 rows, -12 cols | kept 182 rows, 6 cols
+⚠️ Skipping empty sheet: 'Total Results '
+➡️ Sheet 'SE' cleaned: -0 rows, -4 cols | kept 29 rows, 3 cols
+➡️ Sheet 'EE1' cleaned: -12 rows, -21 cols | kept 58 rows, 1 cols
+➡️ Sheet 'EE2' cleaned: -21 rows, -24 cols | kept 109 rows, 1 cols
+➡️ Sheet 'SE2 Charbon' cleaned: -19 rows, -24 cols | kept 110 rows, 1 cols
+➡️ Sheet 'Feuil1' cleaned: -1 rows, -11 cols | kept 30 rows, 2 cols
+📊 Loading tabular: Carbon_fixation_v1.6 (1).xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: Carbon_fixation_v1.6.xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: CO2 fixation_model_Offa_Public Version.xlsx with 20 sheet(s)
+➡️ Sheet 'Overview' cleaned: -8 rows, -2 cols | kept 20 rows, 1 cols
+➡️ Sheet 'Total CO2 Fixation Summary' cleaned: -0 rows, -12 cols | kept 35 rows, 1 cols
+➡️ Sheet 'Baseline CO2 Data' cleaned: -4 rows, -10 cols | kept 24 rows, 1 cols
+➡️ Sheet '1. FMNR Project Area' cleaned: -5 rows, -2 cols | kept 6 rows, 1 cols
+➡️ Sheet '2. FMNR CO2 Fixation Summary' cleaned: -1 rows, -16 cols | kept 37 rows, 1 cols
+➡️ Sheet '3. FMNR Growth Model' cleaned: -11 rows, -6 cols | kept 85 rows, 1 cols
+➡️ Sheet '4. FMNR Default Factors' cleaned: -1 rows, -3 cols | kept 5 rows, 1 cols
+⚠️ Skipping empty sheet: '5. Humbo reference data'
+➡️ Sheet '1. EP Project Area' cleaned: -2 rows, -6 cols | kept 15 rows, 2 cols
+➡️ Sheet '2. EP_CO2 Fixation Summary' cleaned: -2 rows, -11 cols | kept 34 rows, 5 cols
+➡️ Sheet '3. EP_G. robusta Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_O. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_T. brownii Growth Model' cleaned: -0 rows, -5 cols | kept 32 rows, 9 cols
+➡️ Sheet '3.EP_A. abyssinica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_M. indica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3.EP_M. macrostachyusGrowthMode' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. siamea Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+⚠️ Skipping empty sheet: '4.EP GrowthRateDataReferences'
+➡️ Sheet '5. EP Factors&Assumptions' cleaned: -2 rows, -3 cols | kept 26 rows, 1 cols
+📊 Loading tabular: ER_CF.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'C seq Ex-ante model'
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -1 rows, -0 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Fertiliser' cleaned: -0 rows, -0 cols | kept 1 rows, 3 cols
+📊 Loading tabular: ER_Sheet_offset-GHG Removals Calculations-V4.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'INPUT and SUMMARY'
+⚠️ Skipping empty sheet: 'Area&MAI'
+➡️ Sheet 'Cal-AGB' cleaned: -1 rows, -34 cols | kept 65 rows, 1 cols
+⚠️ Skipping empty sheet: 'MAI'
+📊 Loading tabular: Ex ante CO2-captation_29-10-24.xlsx with 3 sheet(s)
+➡️ Sheet 'Total' cleaned: -1 rows, -22 cols | kept 61 rows, 2 cols
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKasongo_SwaYamfu' (80.9% NaN)
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKahumba_Kobo' (82.1% NaN)
+📊 Loading tabular: Ex ante projections.xlsx with 4 sheet(s)
+➡️ Sheet 'MU' cleaned: -0 rows, -8 cols | kept 54 rows, 14 cols
+➡️ Sheet 'AldeaForestal' cleaned: -0 rows, -9 cols | kept 12 rows, 2 cols
+➡️ Sheet 'Inverbosques' cleaned: -0 rows, -9 cols | kept 45 rows, 2 cols
+➡️ Sheet 'Ex ante projection' cleaned: -0 rows, -58 cols | kept 37 rows, 6 cols
+📊 Loading tabular: Ex-ante estimations_ICT_ 3012022.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: Ex-ante estimations_Issuance Control Tool_Nica Forestal 14.11.2019.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: GHG Removals - TERRAGRN-PDD-V4-03112023.xlsx with 8 sheet(s)
+⚠️ Skipping empty sheet: 'Document Controls'
+➡️ Sheet 'INPUT and SUMMARY' cleaned: -10 rows, -15 cols | kept 149 rows, 1 cols
+⚠️ Skipping empty sheet: 'Assumptions & Glossary'
+➡️ Sheet 'Literature Values' cleaned: -42 rows, -21 cols | kept 37 rows, 1 cols
+➡️ Sheet 'Per ha biomass' cleaned: -3 rows, -63 cols | kept 101 rows, 1 cols
+➡️ Sheet 'Area' cleaned: -0 rows, -2 cols | kept 32 rows, 30 cols
+➡️ Sheet 'Cal-AGB+BGB-Bamboo' cleaned: -7 rows, -32 cols | kept 98 rows, 1 cols
+➡️ Sheet 'Cal-AGB+BGB-Fruit Trees' cleaned: -2 rows, -32 cols | kept 65 rows, 1 cols
+📊 Loading tabular: GHG Removals -SUVIDHA-VPA-1_V3.xlsb with 8 sheet(s)
+➡️ Sheet 'Summary' cleaned: -10 rows, -15 cols | kept 108 rows, 2 cols
+⚠️ Skipping empty sheet: 'Other Emissions'
+➡️ Sheet 'REV-Assam' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-Odisha' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-UK' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-HP' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+⚠️ Skipping empty sheet: 'Area, MAI,SOC'
+⚠️ Skipping empty sheet: 'AGB'
+📊 Loading tabular: Halba Ecuador carbon assessment clean version_NOV23.xlsx with 20 sheet(s)
+➡️ Sheet 'Read_me' cleaned: -0 rows, -2 cols | kept 19 rows, 1 cols
+➡️ Sheet 'Table for PDD' cleaned: -0 rows, -19 cols | kept 35 rows, 2 cols
+➡️ Sheet 'Overview' cleaned: -2 rows, -87 cols | kept 50 rows, 2 cols
+➡️ Sheet '1.1. Baseline areas' cleaned: -3 rows, -9 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: '1.2. Baseline values'
+➡️ Sheet '1.3.Cocoa monoculture baseline ' cleaned: -4 rows, -13 cols | kept 70 rows, 7 cols
+⚠️ Skipping empty sheet: '1.4.Cocoa_with_trees_fruit_orch'
+➡️ Sheet '2.1.S.parahybum' cleaned: -8 rows, -6 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.2.S.macrophylla' cleaned: -5 rows, -4 cols | kept 49 rows, 2 cols
+➡️ Sheet '2.3.G.arborea' cleaned: -7 rows, -5 cols | kept 93 rows, 1 cols
+➡️ Sheet '2.4.H.chrysanthus' cleaned: -7 rows, -6 cols | kept 65 rows, 1 cols
+➡️ Sheet '2.5.L.nobilis' cleaned: -6 rows, -6 cols | kept 48 rows, 1 cols
+➡️ Sheet '2.6.T.cumingiana' cleaned: -6 rows, -5 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.7.Ingaspp' cleaned: -7 rows, -6 cols | kept 59 rows, 1 cols
+➡️ Sheet '2.8.C.odorata' cleaned: -4 rows, -23 cols | kept 90 rows, 2 cols
+➡️ Sheet '2.9.Q.petraea' cleaned: -5 rows, -2 cols | kept 42 rows, 3 cols
+➡️ Sheet '2.10.Fruit trees' cleaned: -2 rows, -31 cols | kept 44 rows, 1 cols
+➡️ Sheet '2.11.Cocoa ex-ante' cleaned: -2 rows, -7 cols | kept 32 rows, 1 cols
+➡️ Sheet ' 3.1. Model per ha pre2020' cleaned: -0 rows, -15 cols | kept 48 rows, 4 cols
+➡️ Sheet ' 3.2. Model per ha post2020' cleaned: -2 rows, -14 cols | kept 43 rows, 5 cols
+📊 Loading tabular: Humbo Fuelwood and Livestock Monitoring.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Livestock population 2022'
+⚠️ Skipping empty sheet: 'Fuel Wood utilization'
+📊 Loading tabular: Mt_Elgon_Dairy_ER_Quantification.xlsx with 6 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 9 rows, 1 cols
+➡️ Sheet '2018' cleaned: -0 rows, -11 cols | kept 988 rows, 109 cols
+⚠️ Skipping empty sheet: '2019'
+➡️ Sheet '2020' cleaned: -0 rows, -11 cols | kept 940 rows, 109 cols
+➡️ Sheet 'Mt_elgon_Farmers with farm trac' cleaned: -0 rows, -0 cols | kept 10742 rows, 8 cols
+➡️ Sheet 'Groups with faarm trac' cleaned: -0 rows, -1 cols | kept 1284 rows, 4 cols
+📊 Loading tabular: Piura_analysis_8Mar2019_final.xlsx with 10 sheet(s)
+➡️ Sheet 'definition_strata' cleaned: -3 rows, -26 cols | kept 215 rows, 22 cols
+➡️ Sheet 'strata_areas' cleaned: -0 rows, -3 cols | kept 64 rows, 9 cols
+➡️ Sheet 'precision' cleaned: -6 rows, -20 cols | kept 13 rows, 10 cols
+⚠️ Skipping empty sheet: 'details on precision calc.'
+➡️ Sheet 'CO2fix_growthmodels_2010_12' cleaned: -19 rows, -28 cols | kept 114 rows, 2 cols
+⚠️ Skipping empty sheet: 'issuance_claimed'
+⚠️ Skipping empty sheet: 'growthmodels 2013_14 areas'
+⚠️ Skipping empty sheet: 'estimate_CO2fixation_2035'
+➡️ Sheet 'MUs_2013_14' cleaned: -2 rows, -0 cols | kept 39 rows, 8 cols
+➡️ Sheet 'plots results from inventory' cleaned: -0 rows, -1 cols | kept 205 rows, 13 cols
+📊 Loading tabular: Revised Kikonda Carbon Calculations.xlsx with 18 sheet(s)
+⚠️ Skipping empty sheet: 'Model info'
+⚠️ Skipping empty sheet: 'Table of Content'
+⚠️ Skipping empty sheet: '1. Values and parameters'
+➡️ Sheet 'Exante_ha_V_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+➡️ Sheet 'Exante_ha_V_incr_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+⚠️ Skipping empty sheet: '2.1 Growth model-Volume'
+⚠️ Skipping empty sheet: '2.2 Growth model-Volume incr'
+⚠️ Skipping empty sheet: '2.3 Growth model-V incr LTA'
+⚠️ Skipping empty sheet: '2.4 Growth model-CO2 increments'
+⚠️ Skipping empty sheet: '2.5 Growth model-CO2 incr LTA'
+⚠️ Skipping empty sheet: '2.6 Growth model-Net ER'
+⚠️ Skipping empty sheet: '2.7 Growth mod-Net ER prec cor'
+⚠️ Skipping empty sheet: '3. Baseline, leak, oth emission'
+⚠️ Skipping empty sheet: '4.1 Summary ex ante'
+⚠️ Skipping empty sheet: '4.2 Summary ex post'
+⚠️ Skipping empty sheet: '4.3 Ex post 2016 vs 2021'
+⚠️ Skipping empty sheet: '4.4 Summary VER'
+⚠️ Skipping empty sheet: 'Sheet8'
+📊 Loading tabular: SDG-Impact-tool-TERRAGRN.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -154 rows, -27 cols | kept 228 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: Tree species assessment.xlsx with 1 sheet(s)
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -1 cols | kept 87 rows, 3 cols
+📊 Loading tabular: V1.0_IQ_SDG-Impact-Tool_GS11648_v1.0 _Bulindi Chimpanzee Habitat Restoration Project.xlsx with 9 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -11 rows, -16375 cols | kept 87 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -29 rows, -27 cols | kept 353 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: 301_V1.0_CR_SUD_SDG-Assessment-Tool.xlsx with 5 sheet(s)
+➡️ Sheet 'Tool Introduction' cleaned: -1 rows, -1 cols | kept 5 rows, 1 cols
+➡️ Sheet 'Input Sheet' cleaned: -6 rows, -11 cols | kept 54 rows, 1 cols
+➡️ Sheet 'Urban services and impact' cleaned: -117 rows, -18 cols | kept 30 rows, 2 cols
+➡️ Sheet 'SDGs & Indicators' cleaned: -0 rows, -10 cols | kept 190 rows, 1 cols
+⚠️ Skipping empty sheet: 'Others'
+📊 Loading tabular: 301_V1.0_SUD_Governance-and-Management-Systems_Tool.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Introduction and How to use'
+⚠️ Skipping empty sheet: 'Criteria'
+📊 Loading tabular: 427_V2.11_List-of-eligible-CDM-GS-methodologies.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'Gold Standard meths'
+➡️ Sheet 'CDM meths small-scale (AMS)' cleaned: -3 rows, -7 cols | kept 105 rows, 1 cols
+➡️ Sheet 'CDM meths agriculture (AMS)' cleaned: -3 rows, -7 cols | kept 7 rows, 1 cols
+➡️ Sheet 'CDM meths large-scale (AM+ACM)' cleaned: -3 rows, -7 cols | kept 123 rows, 1 cols
+📊 Loading tabular: 180724_CO2_certificates_exante.xlsx with 10 sheet(s)
+➡️ Sheet 'CO2_certificates_Biomass' cleaned: -0 rows, -10 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Biomass' cleaned: -4 rows, -11 cols | kept 36 rows, 11 cols
+➡️ Sheet 'CO2_certificates_Veneer' cleaned: -0 rows, -11 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Veneer' cleaned: -0 rows, -8 cols | kept 35 rows, 10 cols
+➡️ Sheet 'CO2_certificates_total 25' cleaned: -0 rows, -3 cols | kept 34 rows, 12 cols
+➡️ Sheet 'CO2_certificates_total' cleaned: -8 rows, -4 cols | kept 46 rows, 13 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Other emissions' cleaned: -0 rows, -8 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Plantation_targets' cleaned: -0 rows, -5 cols | kept 35 rows, 10 cols
+➡️ Sheet 'RC_E' cleaned: -1 rows, -9 cols | kept 44 rows, 2 cols
+📊 Loading tabular: 190130_ER ESTIMATIONS_mpr.xlsx with 12 sheet(s)
+⚠️ Skipping empty sheet: 'Areas'
+⚠️ Skipping empty sheet: 'MAI'
+⚠️ Skipping empty sheet: 'Default values'
+⚠️ Skipping empty sheet: 'Thinning_Prunning'
+⚠️ Skipping empty sheet: 'Wood Lower'
+⚠️ Skipping empty sheet: 'Wood Middle'
+⚠️ Skipping empty sheet: 'Wood Upper'
+⚠️ Skipping empty sheet: 'Agro Lower'
+⚠️ Skipping empty sheet: 'Agro Middle'
+⚠️ Skipping empty sheet: 'Agro Upper'
+⚠️ Skipping empty sheet: 'Summary'
+➡️ Sheet 'ER calculations' cleaned: -1 rows, -7 cols | kept 41 rows, 12 cols
+📊 Loading tabular: 202001_Ex-ante estimations_IssuanceControlTool_v1.0.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Instructions'
+➡️ Sheet 'Ex-Ante CO2Fixation' cleaned: -0 rows, -147 cols | kept 54 rows, 1 cols
+📊 Loading tabular: 2021-05-06 Mt Elgon project data and ER calculation_BSc.xlsx with 9 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 13 rows, 1 cols
+➡️ Sheet 'Database with ER-Calculations' cleaned: -0 rows, -13 cols | kept 1240 rows, 108 cols
+⚠️ Skipping empty sheet: 'validated_farmers'
+➡️ Sheet 'Background info - groups' cleaned: -0 rows, -0 cols | kept 823 rows, 18 cols
+➡️ Sheet 'Background info - farmers' cleaned: -0 rows, -0 cols | kept 11356 rows, 19 cols
+➡️ Sheet 'Background info - gps_maps' cleaned: -0 rows, -0 cols | kept 19174 rows, 11 cols
+➡️ Sheet 'Background in-2018-19 ABMS data' cleaned: -1 rows, -6 cols | kept 1103 rows, 88 cols
+➡️ Sheet 'Background info - group removed' cleaned: -0 rows, -1 cols | kept 645 rows, 18 cols
+➡️ Sheet 'Background info-farmers removed' cleaned: -0 rows, -0 cols | kept 10184 rows, 19 cols
+📊 Loading tabular: 20231214 calculations revised planted areas total_design_certification.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'Table for PDD'
+⚠️ Skipping empty sheet: 'Overview'
+⚠️ Skipping empty sheet: 'Baseline values'
+➡️ Sheet 'Project emissions' cleaned: -0 rows, -5 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Pinus - bush per ha' cleaned: -1 rows, -2 cols | kept 44 rows, 8 cols
+➡️ Sheet 'Pinus - cultivated per ha' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Pinus - grassland' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Alnus - bush per ha' cleaned: -7 rows, -14 cols | kept 47 rows, 1 cols
+➡️ Sheet 'Agro - cultivated per ha' cleaned: -2 rows, -14 cols | kept 50 rows, 1 cols
+➡️ Sheet 'Agro - pasture per ha' cleaned: -2 rows, -14 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Enrich per ha alnus' cleaned: -4 rows, -13 cols | kept 49 rows, 1 cols
+➡️ Sheet ' ANR per ha on BUSH' cleaned: -2 rows, -9 cols | kept 45 rows, 1 cols
+➡️ Sheet ' ANR per ha on MIx' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+➡️ Sheet ' ANR per ha on GRA' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+⚠️ Skipping empty sheet: '% species'
+📊 Loading tabular: 301_V1.0_CR_SUD_SDG-Assessment-Tool.xlsx with 5 sheet(s)
+➡️ Sheet 'Tool Introduction' cleaned: -1 rows, -1 cols | kept 5 rows, 1 cols
+➡️ Sheet 'Input Sheet' cleaned: -6 rows, -11 cols | kept 54 rows, 1 cols
+➡️ Sheet 'Urban services and impact' cleaned: -117 rows, -18 cols | kept 30 rows, 2 cols
+➡️ Sheet 'SDGs & Indicators' cleaned: -0 rows, -10 cols | kept 190 rows, 1 cols
+⚠️ Skipping empty sheet: 'Others'
+📊 Loading tabular: 301_V1.0_SUD_Governance-and-Management-Systems_Tool.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Introduction and How to use'
+⚠️ Skipping empty sheet: 'Criteria'
+📊 Loading tabular: 427_V2.11_List-of-eligible-CDM-GS-methodologies.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'Gold Standard meths'
+➡️ Sheet 'CDM meths small-scale (AMS)' cleaned: -3 rows, -7 cols | kept 105 rows, 1 cols
+➡️ Sheet 'CDM meths agriculture (AMS)' cleaned: -3 rows, -7 cols | kept 7 rows, 1 cols
+➡️ Sheet 'CDM meths large-scale (AM+ACM)' cleaned: -3 rows, -7 cols | kept 123 rows, 1 cols
+📊 Loading tabular: 180724_CO2_certificates_exante.xlsx with 10 sheet(s)
+➡️ Sheet 'CO2_certificates_Biomass' cleaned: -0 rows, -10 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Biomass' cleaned: -4 rows, -11 cols | kept 36 rows, 11 cols
+➡️ Sheet 'CO2_certificates_Veneer' cleaned: -0 rows, -11 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Veneer' cleaned: -0 rows, -8 cols | kept 35 rows, 10 cols
+➡️ Sheet 'CO2_certificates_total 25' cleaned: -0 rows, -3 cols | kept 34 rows, 12 cols
+➡️ Sheet 'CO2_certificates_total' cleaned: -8 rows, -4 cols | kept 46 rows, 13 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Other emissions' cleaned: -0 rows, -8 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Plantation_targets' cleaned: -0 rows, -5 cols | kept 35 rows, 10 cols
+➡️ Sheet 'RC_E' cleaned: -1 rows, -9 cols | kept 44 rows, 2 cols
+📊 Loading tabular: 190130_ER ESTIMATIONS_mpr.xlsx with 12 sheet(s)
+⚠️ Skipping empty sheet: 'Areas'
+⚠️ Skipping empty sheet: 'MAI'
+⚠️ Skipping empty sheet: 'Default values'
+⚠️ Skipping empty sheet: 'Thinning_Prunning'
+⚠️ Skipping empty sheet: 'Wood Lower'
+⚠️ Skipping empty sheet: 'Wood Middle'
+⚠️ Skipping empty sheet: 'Wood Upper'
+⚠️ Skipping empty sheet: 'Agro Lower'
+⚠️ Skipping empty sheet: 'Agro Middle'
+⚠️ Skipping empty sheet: 'Agro Upper'
+⚠️ Skipping empty sheet: 'Summary'
+➡️ Sheet 'ER calculations' cleaned: -1 rows, -7 cols | kept 41 rows, 12 cols
+📊 Loading tabular: 202001_Ex-ante estimations_IssuanceControlTool_v1.0.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Instructions'
+➡️ Sheet 'Ex-Ante CO2Fixation' cleaned: -0 rows, -147 cols | kept 54 rows, 1 cols
+📊 Loading tabular: 2021-05-06 Mt Elgon project data and ER calculation_BSc.xlsx with 9 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 13 rows, 1 cols
+➡️ Sheet 'Database with ER-Calculations' cleaned: -0 rows, -13 cols | kept 1240 rows, 108 cols
+⚠️ Skipping empty sheet: 'validated_farmers'
+➡️ Sheet 'Background info - groups' cleaned: -0 rows, -0 cols | kept 823 rows, 18 cols
+➡️ Sheet 'Background info - farmers' cleaned: -0 rows, -0 cols | kept 11356 rows, 19 cols
+➡️ Sheet 'Background info - gps_maps' cleaned: -0 rows, -0 cols | kept 19174 rows, 11 cols
+➡️ Sheet 'Background in-2018-19 ABMS data' cleaned: -1 rows, -6 cols | kept 1103 rows, 88 cols
+➡️ Sheet 'Background info - group removed' cleaned: -0 rows, -1 cols | kept 645 rows, 18 cols
+➡️ Sheet 'Background info-farmers removed' cleaned: -0 rows, -0 cols | kept 10184 rows, 19 cols
+📊 Loading tabular: 20231214 calculations revised planted areas total_design_certification.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'Table for PDD'
+⚠️ Skipping empty sheet: 'Overview'
+⚠️ Skipping empty sheet: 'Baseline values'
+➡️ Sheet 'Project emissions' cleaned: -0 rows, -5 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Pinus - bush per ha' cleaned: -1 rows, -2 cols | kept 44 rows, 8 cols
+➡️ Sheet 'Pinus - cultivated per ha' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Pinus - grassland' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Alnus - bush per ha' cleaned: -7 rows, -14 cols | kept 47 rows, 1 cols
+➡️ Sheet 'Agro - cultivated per ha' cleaned: -2 rows, -14 cols | kept 50 rows, 1 cols
+➡️ Sheet 'Agro - pasture per ha' cleaned: -2 rows, -14 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Enrich per ha alnus' cleaned: -4 rows, -13 cols | kept 49 rows, 1 cols
+➡️ Sheet ' ANR per ha on BUSH' cleaned: -2 rows, -9 cols | kept 45 rows, 1 cols
+➡️ Sheet ' ANR per ha on MIx' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+➡️ Sheet ' ANR per ha on GRA' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+⚠️ Skipping empty sheet: '% species'
+📊 Loading tabular: 430_V1.3_IQ_SDG-Impact-tool - V2.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -64 rows, -16383 cols | kept 55 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -147 rows, -27 cols | kept 235 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: B.1_Emission reduction_GS11648_Ymbu_v3.0_final.xlsx with 5 sheet(s)
+➡️ Sheet 'Species data' cleaned: -14 rows, -9 cols | kept 108 rows, 1 cols
+⚠️ Skipping empty sheet: 'AR_eligibility'
+➡️ Sheet 'ER_Ex-ante ' cleaned: -2 rows, -26 cols | kept 41 rows, 14 cols
+⚠️ Skipping empty sheet: 'IPCC06'
+⚠️ Skipping empty sheet: 'IPCC19'
+📊 Loading tabular: Bagepalli AR - GS VER Calculations-Vintage years calculations_KB.xlsx with 3 sheet(s)
+⚠️ Skipping empty sheet: 'Summary'
+⚠️ Skipping empty sheet: 'Consolidated'
+➡️ Sheet 'Vintage wise Calculations' cleaned: -0 rows, -35 cols | kept 997 rows, 1 cols
+📊 Loading tabular: Baseline_covers_eligible_areas.xlsx with 6 sheet(s)
+➡️ Sheet 'Conteo' cleaned: -0 rows, -0 cols | kept 788 rows, 18 cols
+➡️ Sheet 'SouthPole' cleaned: -0 rows, -0 cols | kept 788 rows, 38 cols
+➡️ Sheet 'SouthPole II' cleaned: -0 rows, -0 cols | kept 570 rows, 21 cols
+➡️ Sheet 'SouthPole III' cleaned: -0 rows, -0 cols | kept 571 rows, 44 cols
+⚠️ Skipping empty sheet: 'Pivot Table 1'
+➡️ Sheet 'Summary' cleaned: -0 rows, -9 cols | kept 43 rows, 12 cols
+📊 Loading tabular: Carbon estimations ex-ante_plantations 2009-2018_v2.0.xlsx with 22 sheet(s)
+➡️ Sheet 'Strates MU' cleaned: -10 rows, -120 cols | kept 96 rows, 4 cols
+⚠️ Skipping empty sheet: 'Parameters'
+➡️ Sheet 'Harvesting schemes' cleaned: -19 rows, -1 cols | kept 56 rows, 34 cols
+➡️ Sheet 'Projects MU VOL - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projects MU CO2 - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projections MU By' cleaned: -0 rows, -26 cols | kept 5903 rows, 32 cols
+➡️ Sheet 'Summary By' cleaned: -1 rows, -1 cols | kept 22 rows, 2 cols
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet3' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet4' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Summary Vol' cleaned: -2 rows, -6 cols | kept 38 rows, 3 cols
+➡️ Sheet 'Sheet1' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet5' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet6' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Summary CO2' cleaned: -22 rows, -12 cols | kept 182 rows, 6 cols
+⚠️ Skipping empty sheet: 'Total Results '
+➡️ Sheet 'SE' cleaned: -0 rows, -4 cols | kept 29 rows, 3 cols
+➡️ Sheet 'EE1' cleaned: -12 rows, -21 cols | kept 58 rows, 1 cols
+➡️ Sheet 'EE2' cleaned: -21 rows, -24 cols | kept 109 rows, 1 cols
+➡️ Sheet 'SE2 Charbon' cleaned: -19 rows, -24 cols | kept 110 rows, 1 cols
+➡️ Sheet 'Feuil1' cleaned: -1 rows, -11 cols | kept 30 rows, 2 cols
+📊 Loading tabular: Carbon_fixation_v1.6 (1).xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: Carbon_fixation_v1.6.xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: CO2 fixation_model_Offa_Public Version.xlsx with 20 sheet(s)
+➡️ Sheet 'Overview' cleaned: -8 rows, -2 cols | kept 20 rows, 1 cols
+➡️ Sheet 'Total CO2 Fixation Summary' cleaned: -0 rows, -12 cols | kept 35 rows, 1 cols
+➡️ Sheet 'Baseline CO2 Data' cleaned: -4 rows, -10 cols | kept 24 rows, 1 cols
+➡️ Sheet '1. FMNR Project Area' cleaned: -5 rows, -2 cols | kept 6 rows, 1 cols
+➡️ Sheet '2. FMNR CO2 Fixation Summary' cleaned: -1 rows, -16 cols | kept 37 rows, 1 cols
+➡️ Sheet '3. FMNR Growth Model' cleaned: -11 rows, -6 cols | kept 85 rows, 1 cols
+➡️ Sheet '4. FMNR Default Factors' cleaned: -1 rows, -3 cols | kept 5 rows, 1 cols
+⚠️ Skipping empty sheet: '5. Humbo reference data'
+➡️ Sheet '1. EP Project Area' cleaned: -2 rows, -6 cols | kept 15 rows, 2 cols
+➡️ Sheet '2. EP_CO2 Fixation Summary' cleaned: -2 rows, -11 cols | kept 34 rows, 5 cols
+➡️ Sheet '3. EP_G. robusta Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_O. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_T. brownii Growth Model' cleaned: -0 rows, -5 cols | kept 32 rows, 9 cols
+➡️ Sheet '3.EP_A. abyssinica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_M. indica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3.EP_M. macrostachyusGrowthMode' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. siamea Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+⚠️ Skipping empty sheet: '4.EP GrowthRateDataReferences'
+➡️ Sheet '5. EP Factors&Assumptions' cleaned: -2 rows, -3 cols | kept 26 rows, 1 cols
+📊 Loading tabular: ER_CF.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'C seq Ex-ante model'
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -1 rows, -0 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Fertiliser' cleaned: -0 rows, -0 cols | kept 1 rows, 3 cols
+📊 Loading tabular: ER_Sheet_offset-GHG Removals Calculations-V4.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'INPUT and SUMMARY'
+⚠️ Skipping empty sheet: 'Area&MAI'
+➡️ Sheet 'Cal-AGB' cleaned: -1 rows, -34 cols | kept 65 rows, 1 cols
+⚠️ Skipping empty sheet: 'MAI'
+📊 Loading tabular: Ex ante CO2-captation_29-10-24.xlsx with 3 sheet(s)
+➡️ Sheet 'Total' cleaned: -1 rows, -22 cols | kept 61 rows, 2 cols
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKasongo_SwaYamfu' (80.9% NaN)
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKahumba_Kobo' (82.1% NaN)
+📊 Loading tabular: Ex ante projections.xlsx with 4 sheet(s)
+➡️ Sheet 'MU' cleaned: -0 rows, -8 cols | kept 54 rows, 14 cols
+➡️ Sheet 'AldeaForestal' cleaned: -0 rows, -9 cols | kept 12 rows, 2 cols
+➡️ Sheet 'Inverbosques' cleaned: -0 rows, -9 cols | kept 45 rows, 2 cols
+➡️ Sheet 'Ex ante projection' cleaned: -0 rows, -58 cols | kept 37 rows, 6 cols
+📊 Loading tabular: Ex-ante estimations_ICT_ 3012022.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: Ex-ante estimations_Issuance Control Tool_Nica Forestal 14.11.2019.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: GHG Removals - TERRAGRN-PDD-V4-03112023.xlsx with 8 sheet(s)
+⚠️ Skipping empty sheet: 'Document Controls'
+➡️ Sheet 'INPUT and SUMMARY' cleaned: -10 rows, -15 cols | kept 149 rows, 1 cols
+⚠️ Skipping empty sheet: 'Assumptions & Glossary'
+➡️ Sheet 'Literature Values' cleaned: -42 rows, -21 cols | kept 37 rows, 1 cols
+➡️ Sheet 'Per ha biomass' cleaned: -3 rows, -63 cols | kept 101 rows, 1 cols
+➡️ Sheet 'Area' cleaned: -0 rows, -2 cols | kept 32 rows, 30 cols
+➡️ Sheet 'Cal-AGB+BGB-Bamboo' cleaned: -7 rows, -32 cols | kept 98 rows, 1 cols
+➡️ Sheet 'Cal-AGB+BGB-Fruit Trees' cleaned: -2 rows, -32 cols | kept 65 rows, 1 cols
+📊 Loading tabular: GHG Removals -SUVIDHA-VPA-1_V3.xlsb with 8 sheet(s)
+➡️ Sheet 'Summary' cleaned: -10 rows, -15 cols | kept 108 rows, 2 cols
+⚠️ Skipping empty sheet: 'Other Emissions'
+➡️ Sheet 'REV-Assam' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-Odisha' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-UK' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-HP' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+⚠️ Skipping empty sheet: 'Area, MAI,SOC'
+⚠️ Skipping empty sheet: 'AGB'
+📊 Loading tabular: Halba Ecuador carbon assessment clean version_NOV23.xlsx with 20 sheet(s)
+➡️ Sheet 'Read_me' cleaned: -0 rows, -2 cols | kept 19 rows, 1 cols
+➡️ Sheet 'Table for PDD' cleaned: -0 rows, -19 cols | kept 35 rows, 2 cols
+➡️ Sheet 'Overview' cleaned: -2 rows, -87 cols | kept 50 rows, 2 cols
+➡️ Sheet '1.1. Baseline areas' cleaned: -3 rows, -9 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: '1.2. Baseline values'
+➡️ Sheet '1.3.Cocoa monoculture baseline ' cleaned: -4 rows, -13 cols | kept 70 rows, 7 cols
+⚠️ Skipping empty sheet: '1.4.Cocoa_with_trees_fruit_orch'
+➡️ Sheet '2.1.S.parahybum' cleaned: -8 rows, -6 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.2.S.macrophylla' cleaned: -5 rows, -4 cols | kept 49 rows, 2 cols
+➡️ Sheet '2.3.G.arborea' cleaned: -7 rows, -5 cols | kept 93 rows, 1 cols
+➡️ Sheet '2.4.H.chrysanthus' cleaned: -7 rows, -6 cols | kept 65 rows, 1 cols
+➡️ Sheet '2.5.L.nobilis' cleaned: -6 rows, -6 cols | kept 48 rows, 1 cols
+➡️ Sheet '2.6.T.cumingiana' cleaned: -6 rows, -5 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.7.Ingaspp' cleaned: -7 rows, -6 cols | kept 59 rows, 1 cols
+➡️ Sheet '2.8.C.odorata' cleaned: -4 rows, -23 cols | kept 90 rows, 2 cols
+➡️ Sheet '2.9.Q.petraea' cleaned: -5 rows, -2 cols | kept 42 rows, 3 cols
+➡️ Sheet '2.10.Fruit trees' cleaned: -2 rows, -31 cols | kept 44 rows, 1 cols
+➡️ Sheet '2.11.Cocoa ex-ante' cleaned: -2 rows, -7 cols | kept 32 rows, 1 cols
+➡️ Sheet ' 3.1. Model per ha pre2020' cleaned: -0 rows, -15 cols | kept 48 rows, 4 cols
+➡️ Sheet ' 3.2. Model per ha post2020' cleaned: -2 rows, -14 cols | kept 43 rows, 5 cols
+📊 Loading tabular: Humbo Fuelwood and Livestock Monitoring.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Livestock population 2022'
+⚠️ Skipping empty sheet: 'Fuel Wood utilization'
+📊 Loading tabular: Mt_Elgon_Dairy_ER_Quantification.xlsx with 6 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 9 rows, 1 cols
+➡️ Sheet '2018' cleaned: -0 rows, -11 cols | kept 988 rows, 109 cols
+⚠️ Skipping empty sheet: '2019'
+➡️ Sheet '2020' cleaned: -0 rows, -11 cols | kept 940 rows, 109 cols
+➡️ Sheet 'Mt_elgon_Farmers with farm trac' cleaned: -0 rows, -0 cols | kept 10742 rows, 8 cols
+➡️ Sheet 'Groups with faarm trac' cleaned: -0 rows, -1 cols | kept 1284 rows, 4 cols
+📊 Loading tabular: Piura_analysis_8Mar2019_final.xlsx with 10 sheet(s)
+➡️ Sheet 'definition_strata' cleaned: -3 rows, -26 cols | kept 215 rows, 22 cols
+➡️ Sheet 'strata_areas' cleaned: -0 rows, -3 cols | kept 64 rows, 9 cols
+➡️ Sheet 'precision' cleaned: -6 rows, -20 cols | kept 13 rows, 10 cols
+⚠️ Skipping empty sheet: 'details on precision calc.'
+➡️ Sheet 'CO2fix_growthmodels_2010_12' cleaned: -19 rows, -28 cols | kept 114 rows, 2 cols
+⚠️ Skipping empty sheet: 'issuance_claimed'
+⚠️ Skipping empty sheet: 'growthmodels 2013_14 areas'
+⚠️ Skipping empty sheet: 'estimate_CO2fixation_2035'
+➡️ Sheet 'MUs_2013_14' cleaned: -2 rows, -0 cols | kept 39 rows, 8 cols
+➡️ Sheet 'plots results from inventory' cleaned: -0 rows, -1 cols | kept 205 rows, 13 cols
+📊 Loading tabular: Revised Kikonda Carbon Calculations.xlsx with 18 sheet(s)
+⚠️ Skipping empty sheet: 'Model info'
+⚠️ Skipping empty sheet: 'Table of Content'
+⚠️ Skipping empty sheet: '1. Values and parameters'
+➡️ Sheet 'Exante_ha_V_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+➡️ Sheet 'Exante_ha_V_incr_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+⚠️ Skipping empty sheet: '2.1 Growth model-Volume'
+⚠️ Skipping empty sheet: '2.2 Growth model-Volume incr'
+⚠️ Skipping empty sheet: '2.3 Growth model-V incr LTA'
+⚠️ Skipping empty sheet: '2.4 Growth model-CO2 increments'
+⚠️ Skipping empty sheet: '2.5 Growth model-CO2 incr LTA'
+⚠️ Skipping empty sheet: '2.6 Growth model-Net ER'
+⚠️ Skipping empty sheet: '2.7 Growth mod-Net ER prec cor'
+⚠️ Skipping empty sheet: '3. Baseline, leak, oth emission'
+⚠️ Skipping empty sheet: '4.1 Summary ex ante'
+⚠️ Skipping empty sheet: '4.2 Summary ex post'
+⚠️ Skipping empty sheet: '4.3 Ex post 2016 vs 2021'
+⚠️ Skipping empty sheet: '4.4 Summary VER'
+⚠️ Skipping empty sheet: 'Sheet8'
+📊 Loading tabular: SDG-Impact-tool-TERRAGRN.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -154 rows, -27 cols | kept 228 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: Tree species assessment.xlsx with 1 sheet(s)
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -1 cols | kept 87 rows, 3 cols
+📊 Loading tabular: V1.0_IQ_SDG-Impact-Tool_GS11648_v1.0 _Bulindi Chimpanzee Habitat Restoration Project.xlsx with 9 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -11 rows, -16375 cols | kept 87 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -29 rows, -27 cols | kept 353 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: Verification2023_CarbonCalculations(1).xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: Verification2023_CarbonCalculations.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: 428.1_V1.0_Activity-and-Baseline-Monitoring-Survey-Template.xlsx with 2 sheet(s)
+➡️ Sheet 'Input data' cleaned: -14 rows, -9 cols | kept 11 rows, 4 cols
+➡️ Sheet 'Data and Parameters' cleaned: -0 rows, -13 cols | kept 22 rows, 2 cols
+📊 Loading tabular: 428.2_V1.0_Uncertainty-Calculation-Tool.xlsx with 2 sheet(s)
+➡️ Sheet 'Uncertainty' cleaned: -7 rows, -7 cols | kept 20 rows, 2 cols
+⚠️ Skipping empty sheet: 'data'
+📊 Loading tabular: 430_V1.3_IQ_SDG-Impact-tool - V2.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -64 rows, -16383 cols | kept 55 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -147 rows, -27 cols | kept 235 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: Baseline_covers_eligible_areas.xlsx with 6 sheet(s)
+➡️ Sheet 'Conteo' cleaned: -0 rows, -0 cols | kept 788 rows, 18 cols
+➡️ Sheet 'SouthPole' cleaned: -0 rows, -0 cols | kept 788 rows, 38 cols
+➡️ Sheet 'SouthPole II' cleaned: -0 rows, -0 cols | kept 570 rows, 21 cols
+➡️ Sheet 'SouthPole III' cleaned: -0 rows, -0 cols | kept 571 rows, 44 cols
+⚠️ Skipping empty sheet: 'Pivot Table 1'
+➡️ Sheet 'Summary' cleaned: -0 rows, -9 cols | kept 43 rows, 12 cols
+📊 Loading tabular: Halba Ecuador carbon assessment clean version_NOV23.xlsx with 20 sheet(s)
+➡️ Sheet 'Read_me' cleaned: -0 rows, -2 cols | kept 19 rows, 1 cols
+➡️ Sheet 'Table for PDD' cleaned: -0 rows, -19 cols | kept 35 rows, 2 cols
+➡️ Sheet 'Overview' cleaned: -2 rows, -87 cols | kept 50 rows, 2 cols
+➡️ Sheet '1.1. Baseline areas' cleaned: -3 rows, -9 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: '1.2. Baseline values'
+➡️ Sheet '1.3.Cocoa monoculture baseline ' cleaned: -4 rows, -13 cols | kept 70 rows, 7 cols
+⚠️ Skipping empty sheet: '1.4.Cocoa_with_trees_fruit_orch'
+➡️ Sheet '2.1.S.parahybum' cleaned: -8 rows, -6 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.2.S.macrophylla' cleaned: -5 rows, -4 cols | kept 49 rows, 2 cols
+➡️ Sheet '2.3.G.arborea' cleaned: -7 rows, -5 cols | kept 93 rows, 1 cols
+➡️ Sheet '2.4.H.chrysanthus' cleaned: -7 rows, -6 cols | kept 65 rows, 1 cols
+➡️ Sheet '2.5.L.nobilis' cleaned: -6 rows, -6 cols | kept 48 rows, 1 cols
+➡️ Sheet '2.6.T.cumingiana' cleaned: -6 rows, -5 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.7.Ingaspp' cleaned: -7 rows, -6 cols | kept 59 rows, 1 cols
+➡️ Sheet '2.8.C.odorata' cleaned: -4 rows, -23 cols | kept 90 rows, 2 cols
+➡️ Sheet '2.9.Q.petraea' cleaned: -5 rows, -2 cols | kept 42 rows, 3 cols
+➡️ Sheet '2.10.Fruit trees' cleaned: -2 rows, -31 cols | kept 44 rows, 1 cols
+➡️ Sheet '2.11.Cocoa ex-ante' cleaned: -2 rows, -7 cols | kept 32 rows, 1 cols
+➡️ Sheet ' 3.1. Model per ha pre2020' cleaned: -0 rows, -15 cols | kept 48 rows, 4 cols
+➡️ Sheet ' 3.2. Model per ha post2020' cleaned: -2 rows, -14 cols | kept 43 rows, 5 cols
+📊 Loading tabular: B.1_Emission reduction_GS11648_Ymbu_v3.0_final.xlsx with 5 sheet(s)
+➡️ Sheet 'Species data' cleaned: -14 rows, -9 cols | kept 108 rows, 1 cols
+⚠️ Skipping empty sheet: 'AR_eligibility'
+➡️ Sheet 'ER_Ex-ante ' cleaned: -2 rows, -26 cols | kept 41 rows, 14 cols
+⚠️ Skipping empty sheet: 'IPCC06'
+⚠️ Skipping empty sheet: 'IPCC19'
+📊 Loading tabular: Humbo Fuelwood and Livestock Monitoring.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Livestock population 2022'
+⚠️ Skipping empty sheet: 'Fuel Wood utilization'
+📊 Loading tabular: Tree species assessment.xlsx with 1 sheet(s)
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -1 cols | kept 87 rows, 3 cols
+📊 Loading tabular: Carbon_fixation_v1.6 (1).xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: Carbon_fixation_v1.6.xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: 202001_Ex-ante estimations_IssuanceControlTool_v1.0.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Instructions'
+➡️ Sheet 'Ex-Ante CO2Fixation' cleaned: -0 rows, -147 cols | kept 54 rows, 1 cols
+📊 Loading tabular: 2021-05-06 Mt Elgon project data and ER calculation_BSc.xlsx with 9 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 13 rows, 1 cols
+➡️ Sheet 'Database with ER-Calculations' cleaned: -0 rows, -13 cols | kept 1240 rows, 108 cols
+⚠️ Skipping empty sheet: 'validated_farmers'
+➡️ Sheet 'Background info - groups' cleaned: -0 rows, -0 cols | kept 823 rows, 18 cols
+➡️ Sheet 'Background info - farmers' cleaned: -0 rows, -0 cols | kept 11356 rows, 19 cols
+➡️ Sheet 'Background info - gps_maps' cleaned: -0 rows, -0 cols | kept 19174 rows, 11 cols
+➡️ Sheet 'Background in-2018-19 ABMS data' cleaned: -1 rows, -6 cols | kept 1103 rows, 88 cols
+➡️ Sheet 'Background info - group removed' cleaned: -0 rows, -1 cols | kept 645 rows, 18 cols
+➡️ Sheet 'Background info-farmers removed' cleaned: -0 rows, -0 cols | kept 10184 rows, 19 cols
+📊 Loading tabular: Mt_Elgon_Dairy_ER_Quantification.xlsx with 6 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 9 rows, 1 cols
+➡️ Sheet '2018' cleaned: -0 rows, -11 cols | kept 988 rows, 109 cols
+⚠️ Skipping empty sheet: '2019'
+➡️ Sheet '2020' cleaned: -0 rows, -11 cols | kept 940 rows, 109 cols
+➡️ Sheet 'Mt_elgon_Farmers with farm trac' cleaned: -0 rows, -0 cols | kept 10742 rows, 8 cols
+➡️ Sheet 'Groups with faarm trac' cleaned: -0 rows, -1 cols | kept 1284 rows, 4 cols
+📊 Loading tabular: 20231214 calculations revised planted areas total_design_certification.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'Table for PDD'
+⚠️ Skipping empty sheet: 'Overview'
+⚠️ Skipping empty sheet: 'Baseline values'
+➡️ Sheet 'Project emissions' cleaned: -0 rows, -5 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Pinus - bush per ha' cleaned: -1 rows, -2 cols | kept 44 rows, 8 cols
+➡️ Sheet 'Pinus - cultivated per ha' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Pinus - grassland' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Alnus - bush per ha' cleaned: -7 rows, -14 cols | kept 47 rows, 1 cols
+➡️ Sheet 'Agro - cultivated per ha' cleaned: -2 rows, -14 cols | kept 50 rows, 1 cols
+➡️ Sheet 'Agro - pasture per ha' cleaned: -2 rows, -14 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Enrich per ha alnus' cleaned: -4 rows, -13 cols | kept 49 rows, 1 cols
+➡️ Sheet ' ANR per ha on BUSH' cleaned: -2 rows, -9 cols | kept 45 rows, 1 cols
+➡️ Sheet ' ANR per ha on MIx' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+➡️ Sheet ' ANR per ha on GRA' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+⚠️ Skipping empty sheet: '% species'
+📊 Loading tabular: CO2 fixation_model_Offa_Public Version.xlsx with 20 sheet(s)
+➡️ Sheet 'Overview' cleaned: -8 rows, -2 cols | kept 20 rows, 1 cols
+➡️ Sheet 'Total CO2 Fixation Summary' cleaned: -0 rows, -12 cols | kept 35 rows, 1 cols
+➡️ Sheet 'Baseline CO2 Data' cleaned: -4 rows, -10 cols | kept 24 rows, 1 cols
+➡️ Sheet '1. FMNR Project Area' cleaned: -5 rows, -2 cols | kept 6 rows, 1 cols
+➡️ Sheet '2. FMNR CO2 Fixation Summary' cleaned: -1 rows, -16 cols | kept 37 rows, 1 cols
+➡️ Sheet '3. FMNR Growth Model' cleaned: -11 rows, -6 cols | kept 85 rows, 1 cols
+➡️ Sheet '4. FMNR Default Factors' cleaned: -1 rows, -3 cols | kept 5 rows, 1 cols
+⚠️ Skipping empty sheet: '5. Humbo reference data'
+➡️ Sheet '1. EP Project Area' cleaned: -2 rows, -6 cols | kept 15 rows, 2 cols
+➡️ Sheet '2. EP_CO2 Fixation Summary' cleaned: -2 rows, -11 cols | kept 34 rows, 5 cols
+➡️ Sheet '3. EP_G. robusta Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_O. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_T. brownii Growth Model' cleaned: -0 rows, -5 cols | kept 32 rows, 9 cols
+➡️ Sheet '3.EP_A. abyssinica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_M. indica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3.EP_M. macrostachyusGrowthMode' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. siamea Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+⚠️ Skipping empty sheet: '4.EP GrowthRateDataReferences'
+➡️ Sheet '5. EP Factors&Assumptions' cleaned: -2 rows, -3 cols | kept 26 rows, 1 cols
+📊 Loading tabular: Verification2023_CarbonCalculations(1).xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: Verification2023_CarbonCalculations.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: GHG Removals - TERRAGRN-PDD-V4-03112023.xlsx with 8 sheet(s)
+⚠️ Skipping empty sheet: 'Document Controls'
+➡️ Sheet 'INPUT and SUMMARY' cleaned: -10 rows, -15 cols | kept 149 rows, 1 cols
+⚠️ Skipping empty sheet: 'Assumptions & Glossary'
+➡️ Sheet 'Literature Values' cleaned: -42 rows, -21 cols | kept 37 rows, 1 cols
+➡️ Sheet 'Per ha biomass' cleaned: -3 rows, -63 cols | kept 101 rows, 1 cols
+➡️ Sheet 'Area' cleaned: -0 rows, -2 cols | kept 32 rows, 30 cols
+➡️ Sheet 'Cal-AGB+BGB-Bamboo' cleaned: -7 rows, -32 cols | kept 98 rows, 1 cols
+➡️ Sheet 'Cal-AGB+BGB-Fruit Trees' cleaned: -2 rows, -32 cols | kept 65 rows, 1 cols
+📊 Loading tabular: 403_V1.0_0.7_LUF_AR Methodology_Soil Carbon Tool.xlsx with 3 sheet(s)
+➡️ Sheet 'Instructions' cleaned: -5 rows, -0 cols | kept 21 rows, 1 cols
+⚠️ Skipping empty sheet: 'Calculator'
+⚠️ Skipping empty sheet: 'Background'
+📊 Loading tabular: GHG Removals - TERRAGRN-PDD-V4-03112023.xlsx with 8 sheet(s)
+⚠️ Skipping empty sheet: 'Document Controls'
+➡️ Sheet 'INPUT and SUMMARY' cleaned: -10 rows, -15 cols | kept 149 rows, 1 cols
+⚠️ Skipping empty sheet: 'Assumptions & Glossary'
+➡️ Sheet 'Literature Values' cleaned: -42 rows, -21 cols | kept 37 rows, 1 cols
+➡️ Sheet 'Per ha biomass' cleaned: -3 rows, -63 cols | kept 101 rows, 1 cols
+➡️ Sheet 'Area' cleaned: -0 rows, -2 cols | kept 32 rows, 30 cols
+➡️ Sheet 'Cal-AGB+BGB-Bamboo' cleaned: -7 rows, -32 cols | kept 98 rows, 1 cols
+➡️ Sheet 'Cal-AGB+BGB-Fruit Trees' cleaned: -2 rows, -32 cols | kept 65 rows, 1 cols
+📊 Loading tabular: SDG-Impact-tool-TERRAGRN.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -154 rows, -27 cols | kept 228 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: GHG Removals -SUVIDHA-VPA-1_V3.xlsb with 8 sheet(s)
+➡️ Sheet 'Summary' cleaned: -10 rows, -15 cols | kept 108 rows, 2 cols
+⚠️ Skipping empty sheet: 'Other Emissions'
+➡️ Sheet 'REV-Assam' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-Odisha' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-UK' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-HP' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+⚠️ Skipping empty sheet: 'Area, MAI,SOC'
+⚠️ Skipping empty sheet: 'AGB'
+📊 Loading tabular: 03 Carbon fixation_COL01_v1.2_Public Version.xlsx with 5 sheet(s)
+➡️ Sheet 'C seq Ex-ante model' cleaned: -11 rows, -68 cols | kept 54 rows, 1 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 6 rows, 3 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+➡️ Sheet 'Fertiliser' cleaned: -0 rows, -0 cols | kept 8 rows, 10 cols
+📊 Loading tabular: Ex ante CO2-captation_29-10-24.xlsx with 3 sheet(s)
+➡️ Sheet 'Total' cleaned: -1 rows, -22 cols | kept 61 rows, 2 cols
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKasongo_SwaYamfu' (80.9% NaN)
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKahumba_Kobo' (82.1% NaN)
+📊 Loading tabular: V1.0_IQ_SDG-Impact-Tool_GS11648_v1.0 _Bulindi Chimpanzee Habitat Restoration Project.xlsx with 9 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -11 rows, -16375 cols | kept 87 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -29 rows, -27 cols | kept 353 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: ER_Sheet_offset-GHG Removals Calculations-V4.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'INPUT and SUMMARY'
+⚠️ Skipping empty sheet: 'Area&MAI'
+➡️ Sheet 'Cal-AGB' cleaned: -1 rows, -34 cols | kept 65 rows, 1 cols
+⚠️ Skipping empty sheet: 'MAI'
+📊 Loading tabular: ER_CF.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'C seq Ex-ante model'
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -1 rows, -0 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Fertiliser' cleaned: -0 rows, -0 cols | kept 1 rows, 3 cols
+📊 Loading tabular: Revised Kikonda Carbon Calculations.xlsx with 18 sheet(s)
+⚠️ Skipping empty sheet: 'Model info'
+⚠️ Skipping empty sheet: 'Table of Content'
+⚠️ Skipping empty sheet: '1. Values and parameters'
+➡️ Sheet 'Exante_ha_V_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+➡️ Sheet 'Exante_ha_V_incr_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+⚠️ Skipping empty sheet: '2.1 Growth model-Volume'
+⚠️ Skipping empty sheet: '2.2 Growth model-Volume incr'
+⚠️ Skipping empty sheet: '2.3 Growth model-V incr LTA'
+⚠️ Skipping empty sheet: '2.4 Growth model-CO2 increments'
+⚠️ Skipping empty sheet: '2.5 Growth model-CO2 incr LTA'
+⚠️ Skipping empty sheet: '2.6 Growth model-Net ER'
+⚠️ Skipping empty sheet: '2.7 Growth mod-Net ER prec cor'
+⚠️ Skipping empty sheet: '3. Baseline, leak, oth emission'
+⚠️ Skipping empty sheet: '4.1 Summary ex ante'
+⚠️ Skipping empty sheet: '4.2 Summary ex post'
+⚠️ Skipping empty sheet: '4.3 Ex post 2016 vs 2021'
+⚠️ Skipping empty sheet: '4.4 Summary VER'
+⚠️ Skipping empty sheet: 'Sheet8'
+📊 Loading tabular: GS3031 - Afforestation Project in Tongliao, Inner Mongolia (1).xlsx with 6 sheet(s)
+⚠️ Skipping empty sheet: 'CO2 certificates'
+⚠️ Skipping empty sheet: 'Values estimated in ex ante PDD'
+⚠️ Skipping empty sheet: 'MU1'
+⚠️ Skipping empty sheet: 'MU2'
+⚠️ Skipping empty sheet: 'MU3'
+⚠️ Skipping empty sheet: 'Annual CO2 fixation'
+📊 Loading tabular: Piura_analysis_8Mar2019_final.xlsx with 10 sheet(s)
+➡️ Sheet 'definition_strata' cleaned: -3 rows, -26 cols | kept 215 rows, 22 cols
+➡️ Sheet 'strata_areas' cleaned: -0 rows, -3 cols | kept 64 rows, 9 cols
+➡️ Sheet 'precision' cleaned: -6 rows, -20 cols | kept 13 rows, 10 cols
+⚠️ Skipping empty sheet: 'details on precision calc.'
+➡️ Sheet 'CO2fix_growthmodels_2010_12' cleaned: -19 rows, -28 cols | kept 114 rows, 2 cols
+⚠️ Skipping empty sheet: 'issuance_claimed'
+⚠️ Skipping empty sheet: 'growthmodels 2013_14 areas'
+⚠️ Skipping empty sheet: 'estimate_CO2fixation_2035'
+➡️ Sheet 'MUs_2013_14' cleaned: -2 rows, -0 cols | kept 39 rows, 8 cols
+➡️ Sheet 'plots results from inventory' cleaned: -0 rows, -1 cols | kept 205 rows, 13 cols
+📊 Loading tabular: GS4210 Final WOS Baguia CO2 Certificate Calculations_ 03-05-2024.xlsx with 22 sheet(s)
+➡️ Sheet 'CO2 Certificates 2023' cleaned: -22 rows, -36 cols | kept 122 rows, 1 cols
+➡️ Sheet '2021 audit certificates' cleaned: -25 rows, -50 cols | kept 123 rows, 1 cols
+➡️ Sheet 'CO2 certificates comparison' cleaned: -3 rows, -16 cols | kept 13 rows, 2 cols
+⚠️ Skipping empty sheet: 'Vintages summary'
+➡️ Sheet 'GS Issuance' cleaned: -0 rows, -4 cols | kept 13 rows, 1 cols
+➡️ Sheet 'CO2 Fixation Summary' cleaned: -1 rows, -22 cols | kept 12 rows, 2 cols
+⚠️ Skipping empty sheet: 'Baseline Carbon Stock'
+➡️ Sheet 'Other Emissions' cleaned: -5 rows, -8 cols | kept 10 rows, 1 cols
+➡️ Sheet 'GIS Area Results' cleaned: -33 rows, -8 cols | kept 43 rows, 2 cols
+➡️ Sheet 'S. album' cleaned: -4 rows, -26 cols | kept 45 rows, 4 cols
+➡️ Sheet 'S. macrophylla' cleaned: -5 rows, -37 cols | kept 45 rows, 6 cols
+➡️ Sheet 'D. nigra' cleaned: -3 rows, -22 cols | kept 42 rows, 5 cols
+➡️ Sheet 'S. foetida' cleaned: -2 rows, -24 cols | kept 44 rows, 3 cols
+➡️ Sheet 'E. urophylla' cleaned: -2 rows, -24 cols | kept 44 rows, 5 cols
+➡️ Sheet 'T. grandis' cleaned: -2 rows, -51 cols | kept 45 rows, 6 cols
+➡️ Sheet 'C. equisetifolia' cleaned: -3 rows, -45 cols | kept 42 rows, 9 cols
+➡️ Sheet 'T.ciliata' cleaned: -2 rows, -22 cols | kept 41 rows, 7 cols
+➡️ Sheet 'GC E. Alba' cleaned: -12 rows, -11 cols | kept 47 rows, 2 cols
+➡️ Sheet 'GC E. Uro' cleaned: -10 rows, -31 cols | kept 121 rows, 1 cols
+➡️ Sheet 'GC S. Macro' cleaned: -12 rows, -58 cols | kept 92 rows, 7 cols
+➡️ Sheet 'GC T. Grandis' cleaned: -30 rows, -34 cols | kept 88 rows, 2 cols
+➡️ Sheet 'GC C. Equis' cleaned: -67 rows, -24 cols | kept 66 rows, 3 cols
+📊 Loading tabular: Ex-ante estimations_ICT_ 3012022.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: Ex-ante estimations_Issuance Control Tool_Nica Forestal 14.11.2019.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: Ex ante projections.xlsx with 4 sheet(s)
+➡️ Sheet 'MU' cleaned: -0 rows, -8 cols | kept 54 rows, 14 cols
+➡️ Sheet 'AldeaForestal' cleaned: -0 rows, -9 cols | kept 12 rows, 2 cols
+➡️ Sheet 'Inverbosques' cleaned: -0 rows, -9 cols | kept 45 rows, 2 cols
+➡️ Sheet 'Ex ante projection' cleaned: -0 rows, -58 cols | kept 37 rows, 6 cols
+📊 Loading tabular: Bagepalli AR - GS VER Calculations-Vintage years calculations_KB.xlsx with 3 sheet(s)
+⚠️ Skipping empty sheet: 'Summary'
+⚠️ Skipping empty sheet: 'Consolidated'
+➡️ Sheet 'Vintage wise Calculations' cleaned: -0 rows, -35 cols | kept 997 rows, 1 cols
+📊 Loading tabular: 10_Soil carbon analysis_GS5618_2nd perf. cert._all eligible plantations 2009-2018.xlsx with 9 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+⚠️ Skipping empty sheet: 'Carbone_Sol'
+⚠️ Skipping empty sheet: 'Analysis'
+⚠️ Skipping empty sheet: 'Area for SOC'
+⚠️ Skipping empty sheet: 'Pivot'
+➡️ Sheet 'Sheet1' cleaned: -0 rows, -0 cols | kept 518 rows, 27 cols
+⚠️ Skipping empty sheet: 'Pivot 1'
+⚠️ Skipping empty sheet: 'Comments'
+⚠️ Skipping empty sheet: 'Applicability'
+📊 Loading tabular: Carbon estimations ex-ante_plantations 2009-2018_v2.0.xlsx with 22 sheet(s)
+➡️ Sheet 'Strates MU' cleaned: -10 rows, -120 cols | kept 96 rows, 4 cols
+⚠️ Skipping empty sheet: 'Parameters'
+➡️ Sheet 'Harvesting schemes' cleaned: -19 rows, -1 cols | kept 56 rows, 34 cols
+➡️ Sheet 'Projects MU VOL - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projects MU CO2 - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projections MU By' cleaned: -0 rows, -26 cols | kept 5903 rows, 32 cols
+➡️ Sheet 'Summary By' cleaned: -1 rows, -1 cols | kept 22 rows, 2 cols
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet3' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet4' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Summary Vol' cleaned: -2 rows, -6 cols | kept 38 rows, 3 cols
+➡️ Sheet 'Sheet1' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet5' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet6' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Summary CO2' cleaned: -22 rows, -12 cols | kept 182 rows, 6 cols
+⚠️ Skipping empty sheet: 'Total Results '
+➡️ Sheet 'SE' cleaned: -0 rows, -4 cols | kept 29 rows, 3 cols
+➡️ Sheet 'EE1' cleaned: -12 rows, -21 cols | kept 58 rows, 1 cols
+➡️ Sheet 'EE2' cleaned: -21 rows, -24 cols | kept 109 rows, 1 cols
+➡️ Sheet 'SE2 Charbon' cleaned: -19 rows, -24 cols | kept 110 rows, 1 cols
+➡️ Sheet 'Feuil1' cleaned: -1 rows, -11 cols | kept 30 rows, 2 cols
+📊 Loading tabular: 180724_CO2_certificates_exante.xlsx with 10 sheet(s)
+➡️ Sheet 'CO2_certificates_Biomass' cleaned: -0 rows, -10 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Biomass' cleaned: -4 rows, -11 cols | kept 36 rows, 11 cols
+➡️ Sheet 'CO2_certificates_Veneer' cleaned: -0 rows, -11 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Veneer' cleaned: -0 rows, -8 cols | kept 35 rows, 10 cols
+➡️ Sheet 'CO2_certificates_total 25' cleaned: -0 rows, -3 cols | kept 34 rows, 12 cols
+➡️ Sheet 'CO2_certificates_total' cleaned: -8 rows, -4 cols | kept 46 rows, 13 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Other emissions' cleaned: -0 rows, -8 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Plantation_targets' cleaned: -0 rows, -5 cols | kept 35 rows, 10 cols
+➡️ Sheet 'RC_E' cleaned: -1 rows, -9 cols | kept 44 rows, 2 cols
+📊 Loading tabular: 190130_ER ESTIMATIONS_mpr.xlsx with 12 sheet(s)
+⚠️ Skipping empty sheet: 'Areas'
+⚠️ Skipping empty sheet: 'MAI'
+⚠️ Skipping empty sheet: 'Default values'
+⚠️ Skipping empty sheet: 'Thinning_Prunning'
+⚠️ Skipping empty sheet: 'Wood Lower'
+⚠️ Skipping empty sheet: 'Wood Middle'
+⚠️ Skipping empty sheet: 'Wood Upper'
+⚠️ Skipping empty sheet: 'Agro Lower'
+⚠️ Skipping empty sheet: 'Agro Middle'
+⚠️ Skipping empty sheet: 'Agro Upper'
+⚠️ Skipping empty sheet: 'Summary'
+➡️ Sheet 'ER calculations' cleaned: -1 rows, -7 cols | kept 41 rows, 12 cols
+📊 Loading tabular: 301_V1.0_CR_SUD_SDG-Assessment-Tool.xlsx with 5 sheet(s)
+➡️ Sheet 'Tool Introduction' cleaned: -1 rows, -1 cols | kept 5 rows, 1 cols
+➡️ Sheet 'Input Sheet' cleaned: -6 rows, -11 cols | kept 54 rows, 1 cols
+➡️ Sheet 'Urban services and impact' cleaned: -117 rows, -18 cols | kept 30 rows, 2 cols
+➡️ Sheet 'SDGs & Indicators' cleaned: -0 rows, -10 cols | kept 190 rows, 1 cols
+⚠️ Skipping empty sheet: 'Others'
+📊 Loading tabular: 301_V1.0_SUD_Governance-and-Management-Systems_Tool.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Introduction and How to use'
+⚠️ Skipping empty sheet: 'Criteria'
+📊 Loading tabular: 427_V2.11_List-of-eligible-CDM-GS-methodologies.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'Gold Standard meths'
+➡️ Sheet 'CDM meths small-scale (AMS)' cleaned: -3 rows, -7 cols | kept 105 rows, 1 cols
+➡️ Sheet 'CDM meths agriculture (AMS)' cleaned: -3 rows, -7 cols | kept 7 rows, 1 cols
+➡️ Sheet 'CDM meths large-scale (AM+ACM)' cleaned: -3 rows, -7 cols | kept 123 rows, 1 cols
+📊 Loading tabular: 180724_CO2_certificates_exante.xlsx with 10 sheet(s)
+➡️ Sheet 'CO2_certificates_Biomass' cleaned: -0 rows, -10 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Biomass' cleaned: -4 rows, -11 cols | kept 36 rows, 11 cols
+➡️ Sheet 'CO2_certificates_Veneer' cleaned: -0 rows, -11 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Veneer' cleaned: -0 rows, -8 cols | kept 35 rows, 10 cols
+➡️ Sheet 'CO2_certificates_total 25' cleaned: -0 rows, -3 cols | kept 34 rows, 12 cols
+➡️ Sheet 'CO2_certificates_total' cleaned: -8 rows, -4 cols | kept 46 rows, 13 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Other emissions' cleaned: -0 rows, -8 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Plantation_targets' cleaned: -0 rows, -5 cols | kept 35 rows, 10 cols
+➡️ Sheet 'RC_E' cleaned: -1 rows, -9 cols | kept 44 rows, 2 cols
+📊 Loading tabular: 190130_ER ESTIMATIONS_mpr.xlsx with 12 sheet(s)
+⚠️ Skipping empty sheet: 'Areas'
+⚠️ Skipping empty sheet: 'MAI'
+⚠️ Skipping empty sheet: 'Default values'
+⚠️ Skipping empty sheet: 'Thinning_Prunning'
+⚠️ Skipping empty sheet: 'Wood Lower'
+⚠️ Skipping empty sheet: 'Wood Middle'
+⚠️ Skipping empty sheet: 'Wood Upper'
+⚠️ Skipping empty sheet: 'Agro Lower'
+⚠️ Skipping empty sheet: 'Agro Middle'
+⚠️ Skipping empty sheet: 'Agro Upper'
+⚠️ Skipping empty sheet: 'Summary'
+➡️ Sheet 'ER calculations' cleaned: -1 rows, -7 cols | kept 41 rows, 12 cols
+📊 Loading tabular: 202001_Ex-ante estimations_IssuanceControlTool_v1.0.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Instructions'
+➡️ Sheet 'Ex-Ante CO2Fixation' cleaned: -0 rows, -147 cols | kept 54 rows, 1 cols
+📊 Loading tabular: 2021-05-06 Mt Elgon project data and ER calculation_BSc.xlsx with 9 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 13 rows, 1 cols
+➡️ Sheet 'Database with ER-Calculations' cleaned: -0 rows, -13 cols | kept 1240 rows, 108 cols
+⚠️ Skipping empty sheet: 'validated_farmers'
+➡️ Sheet 'Background info - groups' cleaned: -0 rows, -0 cols | kept 823 rows, 18 cols
+➡️ Sheet 'Background info - farmers' cleaned: -0 rows, -0 cols | kept 11356 rows, 19 cols
+➡️ Sheet 'Background info - gps_maps' cleaned: -0 rows, -0 cols | kept 19174 rows, 11 cols
+➡️ Sheet 'Background in-2018-19 ABMS data' cleaned: -1 rows, -6 cols | kept 1103 rows, 88 cols
+➡️ Sheet 'Background info - group removed' cleaned: -0 rows, -1 cols | kept 645 rows, 18 cols
+➡️ Sheet 'Background info-farmers removed' cleaned: -0 rows, -0 cols | kept 10184 rows, 19 cols
+📊 Loading tabular: 20231214 calculations revised planted areas total_design_certification.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'Table for PDD'
+⚠️ Skipping empty sheet: 'Overview'
+⚠️ Skipping empty sheet: 'Baseline values'
+➡️ Sheet 'Project emissions' cleaned: -0 rows, -5 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Pinus - bush per ha' cleaned: -1 rows, -2 cols | kept 44 rows, 8 cols
+➡️ Sheet 'Pinus - cultivated per ha' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Pinus - grassland' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Alnus - bush per ha' cleaned: -7 rows, -14 cols | kept 47 rows, 1 cols
+➡️ Sheet 'Agro - cultivated per ha' cleaned: -2 rows, -14 cols | kept 50 rows, 1 cols
+➡️ Sheet 'Agro - pasture per ha' cleaned: -2 rows, -14 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Enrich per ha alnus' cleaned: -4 rows, -13 cols | kept 49 rows, 1 cols
+➡️ Sheet ' ANR per ha on BUSH' cleaned: -2 rows, -9 cols | kept 45 rows, 1 cols
+➡️ Sheet ' ANR per ha on MIx' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+➡️ Sheet ' ANR per ha on GRA' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+⚠️ Skipping empty sheet: '% species'
+📊 Loading tabular: 430_V1.3_IQ_SDG-Impact-tool - V2.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -64 rows, -16383 cols | kept 55 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -147 rows, -27 cols | kept 235 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: B.1_Emission reduction_GS11648_Ymbu_v3.0_final.xlsx with 5 sheet(s)
+➡️ Sheet 'Species data' cleaned: -14 rows, -9 cols | kept 108 rows, 1 cols
+⚠️ Skipping empty sheet: 'AR_eligibility'
+➡️ Sheet 'ER_Ex-ante ' cleaned: -2 rows, -26 cols | kept 41 rows, 14 cols
+⚠️ Skipping empty sheet: 'IPCC06'
+⚠️ Skipping empty sheet: 'IPCC19'
+📊 Loading tabular: Bagepalli AR - GS VER Calculations-Vintage years calculations_KB.xlsx with 3 sheet(s)
+⚠️ Skipping empty sheet: 'Summary'
+⚠️ Skipping empty sheet: 'Consolidated'
+➡️ Sheet 'Vintage wise Calculations' cleaned: -0 rows, -35 cols | kept 997 rows, 1 cols
+📊 Loading tabular: Baseline_covers_eligible_areas.xlsx with 6 sheet(s)
+➡️ Sheet 'Conteo' cleaned: -0 rows, -0 cols | kept 788 rows, 18 cols
+➡️ Sheet 'SouthPole' cleaned: -0 rows, -0 cols | kept 788 rows, 38 cols
+➡️ Sheet 'SouthPole II' cleaned: -0 rows, -0 cols | kept 570 rows, 21 cols
+➡️ Sheet 'SouthPole III' cleaned: -0 rows, -0 cols | kept 571 rows, 44 cols
+⚠️ Skipping empty sheet: 'Pivot Table 1'
+➡️ Sheet 'Summary' cleaned: -0 rows, -9 cols | kept 43 rows, 12 cols
+📊 Loading tabular: Carbon estimations ex-ante_plantations 2009-2018_v2.0.xlsx with 22 sheet(s)
+➡️ Sheet 'Strates MU' cleaned: -10 rows, -120 cols | kept 96 rows, 4 cols
+⚠️ Skipping empty sheet: 'Parameters'
+➡️ Sheet 'Harvesting schemes' cleaned: -19 rows, -1 cols | kept 56 rows, 34 cols
+➡️ Sheet 'Projects MU VOL - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projects MU CO2 - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projections MU By' cleaned: -0 rows, -26 cols | kept 5903 rows, 32 cols
+➡️ Sheet 'Summary By' cleaned: -1 rows, -1 cols | kept 22 rows, 2 cols
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet3' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet4' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Summary Vol' cleaned: -2 rows, -6 cols | kept 38 rows, 3 cols
+➡️ Sheet 'Sheet1' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet5' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet6' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Summary CO2' cleaned: -22 rows, -12 cols | kept 182 rows, 6 cols
+⚠️ Skipping empty sheet: 'Total Results '
+➡️ Sheet 'SE' cleaned: -0 rows, -4 cols | kept 29 rows, 3 cols
+➡️ Sheet 'EE1' cleaned: -12 rows, -21 cols | kept 58 rows, 1 cols
+➡️ Sheet 'EE2' cleaned: -21 rows, -24 cols | kept 109 rows, 1 cols
+➡️ Sheet 'SE2 Charbon' cleaned: -19 rows, -24 cols | kept 110 rows, 1 cols
+➡️ Sheet 'Feuil1' cleaned: -1 rows, -11 cols | kept 30 rows, 2 cols
+📊 Loading tabular: Carbon_fixation_v1.6 (1).xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: Carbon_fixation_v1.6.xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: CO2 fixation_model_Offa_Public Version.xlsx with 20 sheet(s)
+➡️ Sheet 'Overview' cleaned: -8 rows, -2 cols | kept 20 rows, 1 cols
+➡️ Sheet 'Total CO2 Fixation Summary' cleaned: -0 rows, -12 cols | kept 35 rows, 1 cols
+➡️ Sheet 'Baseline CO2 Data' cleaned: -4 rows, -10 cols | kept 24 rows, 1 cols
+➡️ Sheet '1. FMNR Project Area' cleaned: -5 rows, -2 cols | kept 6 rows, 1 cols
+➡️ Sheet '2. FMNR CO2 Fixation Summary' cleaned: -1 rows, -16 cols | kept 37 rows, 1 cols
+➡️ Sheet '3. FMNR Growth Model' cleaned: -11 rows, -6 cols | kept 85 rows, 1 cols
+➡️ Sheet '4. FMNR Default Factors' cleaned: -1 rows, -3 cols | kept 5 rows, 1 cols
+⚠️ Skipping empty sheet: '5. Humbo reference data'
+➡️ Sheet '1. EP Project Area' cleaned: -2 rows, -6 cols | kept 15 rows, 2 cols
+➡️ Sheet '2. EP_CO2 Fixation Summary' cleaned: -2 rows, -11 cols | kept 34 rows, 5 cols
+➡️ Sheet '3. EP_G. robusta Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_O. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_T. brownii Growth Model' cleaned: -0 rows, -5 cols | kept 32 rows, 9 cols
+➡️ Sheet '3.EP_A. abyssinica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_M. indica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3.EP_M. macrostachyusGrowthMode' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. siamea Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+⚠️ Skipping empty sheet: '4.EP GrowthRateDataReferences'
+➡️ Sheet '5. EP Factors&Assumptions' cleaned: -2 rows, -3 cols | kept 26 rows, 1 cols
+📊 Loading tabular: ER_CF.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'C seq Ex-ante model'
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -1 rows, -0 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Fertiliser' cleaned: -0 rows, -0 cols | kept 1 rows, 3 cols
+📊 Loading tabular: ER_Sheet_offset-GHG Removals Calculations-V4.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'INPUT and SUMMARY'
+⚠️ Skipping empty sheet: 'Area&MAI'
+➡️ Sheet 'Cal-AGB' cleaned: -1 rows, -34 cols | kept 65 rows, 1 cols
+⚠️ Skipping empty sheet: 'MAI'
+📊 Loading tabular: Ex ante CO2-captation_29-10-24.xlsx with 3 sheet(s)
+➡️ Sheet 'Total' cleaned: -1 rows, -22 cols | kept 61 rows, 2 cols
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKasongo_SwaYamfu' (80.9% NaN)
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKahumba_Kobo' (82.1% NaN)
+📊 Loading tabular: Ex ante projections.xlsx with 4 sheet(s)
+➡️ Sheet 'MU' cleaned: -0 rows, -8 cols | kept 54 rows, 14 cols
+➡️ Sheet 'AldeaForestal' cleaned: -0 rows, -9 cols | kept 12 rows, 2 cols
+➡️ Sheet 'Inverbosques' cleaned: -0 rows, -9 cols | kept 45 rows, 2 cols
+➡️ Sheet 'Ex ante projection' cleaned: -0 rows, -58 cols | kept 37 rows, 6 cols
+📊 Loading tabular: Ex-ante estimations_ICT_ 3012022.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: Ex-ante estimations_Issuance Control Tool_Nica Forestal 14.11.2019.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: GHG Removals - TERRAGRN-PDD-V4-03112023.xlsx with 8 sheet(s)
+⚠️ Skipping empty sheet: 'Document Controls'
+➡️ Sheet 'INPUT and SUMMARY' cleaned: -10 rows, -15 cols | kept 149 rows, 1 cols
+⚠️ Skipping empty sheet: 'Assumptions & Glossary'
+➡️ Sheet 'Literature Values' cleaned: -42 rows, -21 cols | kept 37 rows, 1 cols
+➡️ Sheet 'Per ha biomass' cleaned: -3 rows, -63 cols | kept 101 rows, 1 cols
+➡️ Sheet 'Area' cleaned: -0 rows, -2 cols | kept 32 rows, 30 cols
+➡️ Sheet 'Cal-AGB+BGB-Bamboo' cleaned: -7 rows, -32 cols | kept 98 rows, 1 cols
+➡️ Sheet 'Cal-AGB+BGB-Fruit Trees' cleaned: -2 rows, -32 cols | kept 65 rows, 1 cols
+📊 Loading tabular: GHG Removals -SUVIDHA-VPA-1_V3.xlsb with 8 sheet(s)
+➡️ Sheet 'Summary' cleaned: -10 rows, -15 cols | kept 108 rows, 2 cols
+⚠️ Skipping empty sheet: 'Other Emissions'
+➡️ Sheet 'REV-Assam' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-Odisha' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-UK' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-HP' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+⚠️ Skipping empty sheet: 'Area, MAI,SOC'
+⚠️ Skipping empty sheet: 'AGB'
+📊 Loading tabular: Halba Ecuador carbon assessment clean version_NOV23.xlsx with 20 sheet(s)
+➡️ Sheet 'Read_me' cleaned: -0 rows, -2 cols | kept 19 rows, 1 cols
+➡️ Sheet 'Table for PDD' cleaned: -0 rows, -19 cols | kept 35 rows, 2 cols
+➡️ Sheet 'Overview' cleaned: -2 rows, -87 cols | kept 50 rows, 2 cols
+➡️ Sheet '1.1. Baseline areas' cleaned: -3 rows, -9 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: '1.2. Baseline values'
+➡️ Sheet '1.3.Cocoa monoculture baseline ' cleaned: -4 rows, -13 cols | kept 70 rows, 7 cols
+⚠️ Skipping empty sheet: '1.4.Cocoa_with_trees_fruit_orch'
+➡️ Sheet '2.1.S.parahybum' cleaned: -8 rows, -6 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.2.S.macrophylla' cleaned: -5 rows, -4 cols | kept 49 rows, 2 cols
+➡️ Sheet '2.3.G.arborea' cleaned: -7 rows, -5 cols | kept 93 rows, 1 cols
+➡️ Sheet '2.4.H.chrysanthus' cleaned: -7 rows, -6 cols | kept 65 rows, 1 cols
+➡️ Sheet '2.5.L.nobilis' cleaned: -6 rows, -6 cols | kept 48 rows, 1 cols
+➡️ Sheet '2.6.T.cumingiana' cleaned: -6 rows, -5 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.7.Ingaspp' cleaned: -7 rows, -6 cols | kept 59 rows, 1 cols
+➡️ Sheet '2.8.C.odorata' cleaned: -4 rows, -23 cols | kept 90 rows, 2 cols
+➡️ Sheet '2.9.Q.petraea' cleaned: -5 rows, -2 cols | kept 42 rows, 3 cols
+➡️ Sheet '2.10.Fruit trees' cleaned: -2 rows, -31 cols | kept 44 rows, 1 cols
+➡️ Sheet '2.11.Cocoa ex-ante' cleaned: -2 rows, -7 cols | kept 32 rows, 1 cols
+➡️ Sheet ' 3.1. Model per ha pre2020' cleaned: -0 rows, -15 cols | kept 48 rows, 4 cols
+➡️ Sheet ' 3.2. Model per ha post2020' cleaned: -2 rows, -14 cols | kept 43 rows, 5 cols
+📊 Loading tabular: Humbo Fuelwood and Livestock Monitoring.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Livestock population 2022'
+⚠️ Skipping empty sheet: 'Fuel Wood utilization'
+📊 Loading tabular: Mt_Elgon_Dairy_ER_Quantification.xlsx with 6 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 9 rows, 1 cols
+➡️ Sheet '2018' cleaned: -0 rows, -11 cols | kept 988 rows, 109 cols
+⚠️ Skipping empty sheet: '2019'
+➡️ Sheet '2020' cleaned: -0 rows, -11 cols | kept 940 rows, 109 cols
+➡️ Sheet 'Mt_elgon_Farmers with farm trac' cleaned: -0 rows, -0 cols | kept 10742 rows, 8 cols
+➡️ Sheet 'Groups with faarm trac' cleaned: -0 rows, -1 cols | kept 1284 rows, 4 cols
+📊 Loading tabular: Piura_analysis_8Mar2019_final.xlsx with 10 sheet(s)
+➡️ Sheet 'definition_strata' cleaned: -3 rows, -26 cols | kept 215 rows, 22 cols
+➡️ Sheet 'strata_areas' cleaned: -0 rows, -3 cols | kept 64 rows, 9 cols
+➡️ Sheet 'precision' cleaned: -6 rows, -20 cols | kept 13 rows, 10 cols
+⚠️ Skipping empty sheet: 'details on precision calc.'
+➡️ Sheet 'CO2fix_growthmodels_2010_12' cleaned: -19 rows, -28 cols | kept 114 rows, 2 cols
+⚠️ Skipping empty sheet: 'issuance_claimed'
+⚠️ Skipping empty sheet: 'growthmodels 2013_14 areas'
+⚠️ Skipping empty sheet: 'estimate_CO2fixation_2035'
+➡️ Sheet 'MUs_2013_14' cleaned: -2 rows, -0 cols | kept 39 rows, 8 cols
+➡️ Sheet 'plots results from inventory' cleaned: -0 rows, -1 cols | kept 205 rows, 13 cols
+📊 Loading tabular: Revised Kikonda Carbon Calculations.xlsx with 18 sheet(s)
+⚠️ Skipping empty sheet: 'Model info'
+⚠️ Skipping empty sheet: 'Table of Content'
+⚠️ Skipping empty sheet: '1. Values and parameters'
+➡️ Sheet 'Exante_ha_V_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+➡️ Sheet 'Exante_ha_V_incr_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+⚠️ Skipping empty sheet: '2.1 Growth model-Volume'
+⚠️ Skipping empty sheet: '2.2 Growth model-Volume incr'
+⚠️ Skipping empty sheet: '2.3 Growth model-V incr LTA'
+⚠️ Skipping empty sheet: '2.4 Growth model-CO2 increments'
+⚠️ Skipping empty sheet: '2.5 Growth model-CO2 incr LTA'
+⚠️ Skipping empty sheet: '2.6 Growth model-Net ER'
+⚠️ Skipping empty sheet: '2.7 Growth mod-Net ER prec cor'
+⚠️ Skipping empty sheet: '3. Baseline, leak, oth emission'
+⚠️ Skipping empty sheet: '4.1 Summary ex ante'
+⚠️ Skipping empty sheet: '4.2 Summary ex post'
+⚠️ Skipping empty sheet: '4.3 Ex post 2016 vs 2021'
+⚠️ Skipping empty sheet: '4.4 Summary VER'
+⚠️ Skipping empty sheet: 'Sheet8'
+📊 Loading tabular: SDG-Impact-tool-TERRAGRN.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -154 rows, -27 cols | kept 228 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: Tree species assessment.xlsx with 1 sheet(s)
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -1 cols | kept 87 rows, 3 cols
+📊 Loading tabular: V1.0_IQ_SDG-Impact-Tool_GS11648_v1.0 _Bulindi Chimpanzee Habitat Restoration Project.xlsx with 9 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -11 rows, -16375 cols | kept 87 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -29 rows, -27 cols | kept 353 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: Verification2023_CarbonCalculations(1).xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: Verification2023_CarbonCalculations.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: 428.1_V1.0_Activity-and-Baseline-Monitoring-Survey-Template.xlsx with 2 sheet(s)
+➡️ Sheet 'Input data' cleaned: -14 rows, -9 cols | kept 11 rows, 4 cols
+➡️ Sheet 'Data and Parameters' cleaned: -0 rows, -13 cols | kept 22 rows, 2 cols
+📊 Loading tabular: 428.2_V1.0_Uncertainty-Calculation-Tool.xlsx with 2 sheet(s)
+➡️ Sheet 'Uncertainty' cleaned: -7 rows, -7 cols | kept 20 rows, 2 cols
+⚠️ Skipping empty sheet: 'data'
+📊 Loading tabular: 430_V1.3_IQ_SDG-Impact-tool - V2.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -64 rows, -16383 cols | kept 55 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -147 rows, -27 cols | kept 235 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: Baseline_covers_eligible_areas.xlsx with 6 sheet(s)
+➡️ Sheet 'Conteo' cleaned: -0 rows, -0 cols | kept 788 rows, 18 cols
+➡️ Sheet 'SouthPole' cleaned: -0 rows, -0 cols | kept 788 rows, 38 cols
+➡️ Sheet 'SouthPole II' cleaned: -0 rows, -0 cols | kept 570 rows, 21 cols
+➡️ Sheet 'SouthPole III' cleaned: -0 rows, -0 cols | kept 571 rows, 44 cols
+⚠️ Skipping empty sheet: 'Pivot Table 1'
+➡️ Sheet 'Summary' cleaned: -0 rows, -9 cols | kept 43 rows, 12 cols
+📊 Loading tabular: Halba Ecuador carbon assessment clean version_NOV23.xlsx with 20 sheet(s)
+➡️ Sheet 'Read_me' cleaned: -0 rows, -2 cols | kept 19 rows, 1 cols
+➡️ Sheet 'Table for PDD' cleaned: -0 rows, -19 cols | kept 35 rows, 2 cols
+➡️ Sheet 'Overview' cleaned: -2 rows, -87 cols | kept 50 rows, 2 cols
+➡️ Sheet '1.1. Baseline areas' cleaned: -3 rows, -9 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: '1.2. Baseline values'
+➡️ Sheet '1.3.Cocoa monoculture baseline ' cleaned: -4 rows, -13 cols | kept 70 rows, 7 cols
+⚠️ Skipping empty sheet: '1.4.Cocoa_with_trees_fruit_orch'
+➡️ Sheet '2.1.S.parahybum' cleaned: -8 rows, -6 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.2.S.macrophylla' cleaned: -5 rows, -4 cols | kept 49 rows, 2 cols
+➡️ Sheet '2.3.G.arborea' cleaned: -7 rows, -5 cols | kept 93 rows, 1 cols
+➡️ Sheet '2.4.H.chrysanthus' cleaned: -7 rows, -6 cols | kept 65 rows, 1 cols
+➡️ Sheet '2.5.L.nobilis' cleaned: -6 rows, -6 cols | kept 48 rows, 1 cols
+➡️ Sheet '2.6.T.cumingiana' cleaned: -6 rows, -5 cols | kept 80 rows, 1 cols
+➡️ Sheet '2.7.Ingaspp' cleaned: -7 rows, -6 cols | kept 59 rows, 1 cols
+➡️ Sheet '2.8.C.odorata' cleaned: -4 rows, -23 cols | kept 90 rows, 2 cols
+➡️ Sheet '2.9.Q.petraea' cleaned: -5 rows, -2 cols | kept 42 rows, 3 cols
+➡️ Sheet '2.10.Fruit trees' cleaned: -2 rows, -31 cols | kept 44 rows, 1 cols
+➡️ Sheet '2.11.Cocoa ex-ante' cleaned: -2 rows, -7 cols | kept 32 rows, 1 cols
+➡️ Sheet ' 3.1. Model per ha pre2020' cleaned: -0 rows, -15 cols | kept 48 rows, 4 cols
+➡️ Sheet ' 3.2. Model per ha post2020' cleaned: -2 rows, -14 cols | kept 43 rows, 5 cols
+📊 Loading tabular: B.1_Emission reduction_GS11648_Ymbu_v3.0_final.xlsx with 5 sheet(s)
+➡️ Sheet 'Species data' cleaned: -14 rows, -9 cols | kept 108 rows, 1 cols
+⚠️ Skipping empty sheet: 'AR_eligibility'
+➡️ Sheet 'ER_Ex-ante ' cleaned: -2 rows, -26 cols | kept 41 rows, 14 cols
+⚠️ Skipping empty sheet: 'IPCC06'
+⚠️ Skipping empty sheet: 'IPCC19'
+📊 Loading tabular: Humbo Fuelwood and Livestock Monitoring.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Livestock population 2022'
+⚠️ Skipping empty sheet: 'Fuel Wood utilization'
+📊 Loading tabular: Tree species assessment.xlsx with 1 sheet(s)
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -1 cols | kept 87 rows, 3 cols
+📊 Loading tabular: Carbon_fixation_v1.6 (1).xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: Carbon_fixation_v1.6.xlsx with 14 sheet(s)
+➡️ Sheet 'KPIs' cleaned: -11 rows, -8 cols | kept 60 rows, 1 cols
+⚠️ Skipping empty sheet: 'C Sequestration Summary per MUs'
+⚠️ Skipping empty sheet: 'C SEQUESTRATION SUMMARY TABLE'
+⚠️ Skipping empty sheet: 'Planting_design_0'
+⚠️ Skipping empty sheet: 'Llano_Alegre'
+⚠️ Skipping empty sheet: 'Pato _1'
+⚠️ Skipping empty sheet: 'Quebradon'
+➡️ Sheet 'Chamorro' cleaned: -7 rows, -54 cols | kept 66 rows, 1 cols
+➡️ Sheet 'Species database' cleaned: -15 rows, -48 cols | kept 146 rows, 1 cols
+➡️ Sheet 'Species summary AGB' cleaned: -0 rows, -2 cols | kept 11 rows, 1 cols
+➡️ Sheet 'Tree booklet_clean' cleaned: -0 rows, -39 cols | kept 34 rows, 3 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 26 rows, 4 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+📊 Loading tabular: 202001_Ex-ante estimations_IssuanceControlTool_v1.0.xlsx with 2 sheet(s)
+⚠️ Skipping empty sheet: 'Instructions'
+➡️ Sheet 'Ex-Ante CO2Fixation' cleaned: -0 rows, -147 cols | kept 54 rows, 1 cols
+📊 Loading tabular: 2021-05-06 Mt Elgon project data and ER calculation_BSc.xlsx with 9 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 13 rows, 1 cols
+➡️ Sheet 'Database with ER-Calculations' cleaned: -0 rows, -13 cols | kept 1240 rows, 108 cols
+⚠️ Skipping empty sheet: 'validated_farmers'
+➡️ Sheet 'Background info - groups' cleaned: -0 rows, -0 cols | kept 823 rows, 18 cols
+➡️ Sheet 'Background info - farmers' cleaned: -0 rows, -0 cols | kept 11356 rows, 19 cols
+➡️ Sheet 'Background info - gps_maps' cleaned: -0 rows, -0 cols | kept 19174 rows, 11 cols
+➡️ Sheet 'Background in-2018-19 ABMS data' cleaned: -1 rows, -6 cols | kept 1103 rows, 88 cols
+➡️ Sheet 'Background info - group removed' cleaned: -0 rows, -1 cols | kept 645 rows, 18 cols
+➡️ Sheet 'Background info-farmers removed' cleaned: -0 rows, -0 cols | kept 10184 rows, 19 cols
+📊 Loading tabular: Mt_Elgon_Dairy_ER_Quantification.xlsx with 6 sheet(s)
+➡️ Sheet 'Summary' cleaned: -6 rows, -3 cols | kept 9 rows, 1 cols
+➡️ Sheet '2018' cleaned: -0 rows, -11 cols | kept 988 rows, 109 cols
+⚠️ Skipping empty sheet: '2019'
+➡️ Sheet '2020' cleaned: -0 rows, -11 cols | kept 940 rows, 109 cols
+➡️ Sheet 'Mt_elgon_Farmers with farm trac' cleaned: -0 rows, -0 cols | kept 10742 rows, 8 cols
+➡️ Sheet 'Groups with faarm trac' cleaned: -0 rows, -1 cols | kept 1284 rows, 4 cols
+📊 Loading tabular: 20231214 calculations revised planted areas total_design_certification.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'Table for PDD'
+⚠️ Skipping empty sheet: 'Overview'
+⚠️ Skipping empty sheet: 'Baseline values'
+➡️ Sheet 'Project emissions' cleaned: -0 rows, -5 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Pinus - bush per ha' cleaned: -1 rows, -2 cols | kept 44 rows, 8 cols
+➡️ Sheet 'Pinus - cultivated per ha' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Pinus - grassland' cleaned: -1 rows, -2 cols | kept 43 rows, 8 cols
+➡️ Sheet 'Alnus - bush per ha' cleaned: -7 rows, -14 cols | kept 47 rows, 1 cols
+➡️ Sheet 'Agro - cultivated per ha' cleaned: -2 rows, -14 cols | kept 50 rows, 1 cols
+➡️ Sheet 'Agro - pasture per ha' cleaned: -2 rows, -14 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Enrich per ha alnus' cleaned: -4 rows, -13 cols | kept 49 rows, 1 cols
+➡️ Sheet ' ANR per ha on BUSH' cleaned: -2 rows, -9 cols | kept 45 rows, 1 cols
+➡️ Sheet ' ANR per ha on MIx' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+➡️ Sheet ' ANR per ha on GRA' cleaned: -2 rows, -1 cols | kept 34 rows, 1 cols
+⚠️ Skipping empty sheet: '% species'
+📊 Loading tabular: CO2 fixation_model_Offa_Public Version.xlsx with 20 sheet(s)
+➡️ Sheet 'Overview' cleaned: -8 rows, -2 cols | kept 20 rows, 1 cols
+➡️ Sheet 'Total CO2 Fixation Summary' cleaned: -0 rows, -12 cols | kept 35 rows, 1 cols
+➡️ Sheet 'Baseline CO2 Data' cleaned: -4 rows, -10 cols | kept 24 rows, 1 cols
+➡️ Sheet '1. FMNR Project Area' cleaned: -5 rows, -2 cols | kept 6 rows, 1 cols
+➡️ Sheet '2. FMNR CO2 Fixation Summary' cleaned: -1 rows, -16 cols | kept 37 rows, 1 cols
+➡️ Sheet '3. FMNR Growth Model' cleaned: -11 rows, -6 cols | kept 85 rows, 1 cols
+➡️ Sheet '4. FMNR Default Factors' cleaned: -1 rows, -3 cols | kept 5 rows, 1 cols
+⚠️ Skipping empty sheet: '5. Humbo reference data'
+➡️ Sheet '1. EP Project Area' cleaned: -2 rows, -6 cols | kept 15 rows, 2 cols
+➡️ Sheet '2. EP_CO2 Fixation Summary' cleaned: -2 rows, -11 cols | kept 34 rows, 5 cols
+➡️ Sheet '3. EP_G. robusta Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_O. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_T. brownii Growth Model' cleaned: -0 rows, -5 cols | kept 32 rows, 9 cols
+➡️ Sheet '3.EP_A. abyssinica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_M. indica Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3.EP_M. macrostachyusGrowthMode' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. siamea Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+➡️ Sheet '3. EP_C. africana Growth Model' cleaned: -0 rows, -5 cols | kept 31 rows, 9 cols
+⚠️ Skipping empty sheet: '4.EP GrowthRateDataReferences'
+➡️ Sheet '5. EP Factors&Assumptions' cleaned: -2 rows, -3 cols | kept 26 rows, 1 cols
+📊 Loading tabular: Verification2023_CarbonCalculations(1).xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: Verification2023_CarbonCalculations.xlsx with 15 sheet(s)
+⚠️ Skipping empty sheet: 'SOC'
+➡️ Sheet '1. Value-factors' cleaned: -0 rows, -28 cols | kept 19 rows, 1 cols
+➡️ Sheet '2.Carbon exante_(2023)' cleaned: -1 rows, -16 cols | kept 49 rows, 11 cols
+➡️ Sheet '3. Summary CO2e_exante' cleaned: -0 rows, -32 cols | kept 53 rows, 7 cols
+⚠️ Skipping empty sheet: 'Factors and parameters'
+➡️ Sheet 'DB_tree_data' cleaned: -0 rows, -0 cols | kept 13972 rows, 29 cols
+⚠️ Skipping empty sheet: 'Precision Calculations'
+⚠️ Skipping empty sheet: 'MU info'
+⚠️ Skipping empty sheet: 'Pivot_Plot aggregates'
+➡️ Sheet 'Pivot_MU aggregates' cleaned: -3 rows, -13 cols | kept 19 rows, 1 cols
+⚠️ Skipping empty sheet: 'MU Average DBH & Height'
+➡️ Sheet '3.Carbon expost_(2023)' cleaned: -1 rows, -9 cols | kept 49 rows, 22 cols
+➡️ Sheet '3. Summary CO2e_total(PR2023)' cleaned: -2 rows, -17 cols | kept 54 rows, 15 cols
+➡️ Sheet '4.Longterm (2023)' cleaned: -1 rows, -15 cols | kept 49 rows, 11 cols
+➡️ Sheet '4. Summary Longterm (2023)' cleaned: -0 rows, -17 cols | kept 52 rows, 7 cols
+📊 Loading tabular: GHG Removals - TERRAGRN-PDD-V4-03112023.xlsx with 8 sheet(s)
+⚠️ Skipping empty sheet: 'Document Controls'
+➡️ Sheet 'INPUT and SUMMARY' cleaned: -10 rows, -15 cols | kept 149 rows, 1 cols
+⚠️ Skipping empty sheet: 'Assumptions & Glossary'
+➡️ Sheet 'Literature Values' cleaned: -42 rows, -21 cols | kept 37 rows, 1 cols
+➡️ Sheet 'Per ha biomass' cleaned: -3 rows, -63 cols | kept 101 rows, 1 cols
+➡️ Sheet 'Area' cleaned: -0 rows, -2 cols | kept 32 rows, 30 cols
+➡️ Sheet 'Cal-AGB+BGB-Bamboo' cleaned: -7 rows, -32 cols | kept 98 rows, 1 cols
+➡️ Sheet 'Cal-AGB+BGB-Fruit Trees' cleaned: -2 rows, -32 cols | kept 65 rows, 1 cols
+📊 Loading tabular: 403_V1.0_0.7_LUF_AR Methodology_Soil Carbon Tool.xlsx with 3 sheet(s)
+➡️ Sheet 'Instructions' cleaned: -5 rows, -0 cols | kept 21 rows, 1 cols
+⚠️ Skipping empty sheet: 'Calculator'
+⚠️ Skipping empty sheet: 'Background'
+📊 Loading tabular: GHG Removals - TERRAGRN-PDD-V4-03112023.xlsx with 8 sheet(s)
+⚠️ Skipping empty sheet: 'Document Controls'
+➡️ Sheet 'INPUT and SUMMARY' cleaned: -10 rows, -15 cols | kept 149 rows, 1 cols
+⚠️ Skipping empty sheet: 'Assumptions & Glossary'
+➡️ Sheet 'Literature Values' cleaned: -42 rows, -21 cols | kept 37 rows, 1 cols
+➡️ Sheet 'Per ha biomass' cleaned: -3 rows, -63 cols | kept 101 rows, 1 cols
+➡️ Sheet 'Area' cleaned: -0 rows, -2 cols | kept 32 rows, 30 cols
+➡️ Sheet 'Cal-AGB+BGB-Bamboo' cleaned: -7 rows, -32 cols | kept 98 rows, 1 cols
+➡️ Sheet 'Cal-AGB+BGB-Fruit Trees' cleaned: -2 rows, -32 cols | kept 65 rows, 1 cols
+📊 Loading tabular: SDG-Impact-tool-TERRAGRN.xlsx with 10 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -154 rows, -27 cols | kept 228 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'SCF-Aqua+WWT' cleaned: -68 rows, -16383 cols | kept 51 rows, 1 cols
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: GHG Removals -SUVIDHA-VPA-1_V3.xlsb with 8 sheet(s)
+➡️ Sheet 'Summary' cleaned: -10 rows, -15 cols | kept 108 rows, 2 cols
+⚠️ Skipping empty sheet: 'Other Emissions'
+➡️ Sheet 'REV-Assam' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-Odisha' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-UK' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+➡️ Sheet 'REV-HP' cleaned: -8 rows, -11 cols | kept 109 rows, 1 cols
+⚠️ Skipping empty sheet: 'Area, MAI,SOC'
+⚠️ Skipping empty sheet: 'AGB'
+📊 Loading tabular: 03 Carbon fixation_COL01_v1.2_Public Version.xlsx with 5 sheet(s)
+➡️ Sheet 'C seq Ex-ante model' cleaned: -11 rows, -68 cols | kept 54 rows, 1 cols
+➡️ Sheet 'Life expectation' cleaned: -0 rows, -0 cols | kept 6 rows, 3 cols
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -2 rows, -10 cols | kept 4 rows, 1 cols
+➡️ Sheet 'Fertiliser' cleaned: -0 rows, -0 cols | kept 8 rows, 10 cols
+📊 Loading tabular: Ex ante CO2-captation_29-10-24.xlsx with 3 sheet(s)
+➡️ Sheet 'Total' cleaned: -1 rows, -22 cols | kept 61 rows, 2 cols
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKasongo_SwaYamfu' (80.9% NaN)
+🚮 Skipping mostly-NaN sheet: 'MU_SwaKahumba_Kobo' (82.1% NaN)
+📊 Loading tabular: V1.0_IQ_SDG-Impact-Tool_GS11648_v1.0 _Bulindi Chimpanzee Habitat Restoration Project.xlsx with 9 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+➡️ Sheet 'Impact assessment' cleaned: -11 rows, -16375 cols | kept 87 rows, 1 cols
+⚠️ Skipping empty sheet: 'Result'
+➡️ Sheet 'Mapping' cleaned: -29 rows, -27 cols | kept 353 rows, 39 cols
+⚠️ Skipping empty sheet: 'BA'
+⚠️ Skipping empty sheet: 'Tool overview'
+⚠️ Skipping empty sheet: 'Sheet1'
+⚠️ Skipping empty sheet: 'Background'
+➡️ Sheet 'Use case' cleaned: -16 rows, -16383 cols | kept 50 rows, 1 cols
+📊 Loading tabular: ER_Sheet_offset-GHG Removals Calculations-V4.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'INPUT and SUMMARY'
+⚠️ Skipping empty sheet: 'Area&MAI'
+➡️ Sheet 'Cal-AGB' cleaned: -1 rows, -34 cols | kept 65 rows, 1 cols
+⚠️ Skipping empty sheet: 'MAI'
+📊 Loading tabular: ER_CF.xlsx with 4 sheet(s)
+⚠️ Skipping empty sheet: 'C seq Ex-ante model'
+➡️ Sheet 'Baseline grassland' cleaned: -0 rows, -5 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Baseline shrubs' cleaned: -1 rows, -0 cols | kept 2 rows, 1 cols
+➡️ Sheet 'Fertiliser' cleaned: -0 rows, -0 cols | kept 1 rows, 3 cols
+📊 Loading tabular: Revised Kikonda Carbon Calculations.xlsx with 18 sheet(s)
+⚠️ Skipping empty sheet: 'Model info'
+⚠️ Skipping empty sheet: 'Table of Content'
+⚠️ Skipping empty sheet: '1. Values and parameters'
+➡️ Sheet 'Exante_ha_V_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+➡️ Sheet 'Exante_ha_V_incr_project' cleaned: -0 rows, -8 cols | kept 30 rows, 32 cols
+⚠️ Skipping empty sheet: '2.1 Growth model-Volume'
+⚠️ Skipping empty sheet: '2.2 Growth model-Volume incr'
+⚠️ Skipping empty sheet: '2.3 Growth model-V incr LTA'
+⚠️ Skipping empty sheet: '2.4 Growth model-CO2 increments'
+⚠️ Skipping empty sheet: '2.5 Growth model-CO2 incr LTA'
+⚠️ Skipping empty sheet: '2.6 Growth model-Net ER'
+⚠️ Skipping empty sheet: '2.7 Growth mod-Net ER prec cor'
+⚠️ Skipping empty sheet: '3. Baseline, leak, oth emission'
+⚠️ Skipping empty sheet: '4.1 Summary ex ante'
+⚠️ Skipping empty sheet: '4.2 Summary ex post'
+⚠️ Skipping empty sheet: '4.3 Ex post 2016 vs 2021'
+⚠️ Skipping empty sheet: '4.4 Summary VER'
+⚠️ Skipping empty sheet: 'Sheet8'
+📊 Loading tabular: GS3031 - Afforestation Project in Tongliao, Inner Mongolia (1).xlsx with 6 sheet(s)
+⚠️ Skipping empty sheet: 'CO2 certificates'
+⚠️ Skipping empty sheet: 'Values estimated in ex ante PDD'
+⚠️ Skipping empty sheet: 'MU1'
+⚠️ Skipping empty sheet: 'MU2'
+⚠️ Skipping empty sheet: 'MU3'
+⚠️ Skipping empty sheet: 'Annual CO2 fixation'
+📊 Loading tabular: Piura_analysis_8Mar2019_final.xlsx with 10 sheet(s)
+➡️ Sheet 'definition_strata' cleaned: -3 rows, -26 cols | kept 215 rows, 22 cols
+➡️ Sheet 'strata_areas' cleaned: -0 rows, -3 cols | kept 64 rows, 9 cols
+➡️ Sheet 'precision' cleaned: -6 rows, -20 cols | kept 13 rows, 10 cols
+⚠️ Skipping empty sheet: 'details on precision calc.'
+➡️ Sheet 'CO2fix_growthmodels_2010_12' cleaned: -19 rows, -28 cols | kept 114 rows, 2 cols
+⚠️ Skipping empty sheet: 'issuance_claimed'
+⚠️ Skipping empty sheet: 'growthmodels 2013_14 areas'
+⚠️ Skipping empty sheet: 'estimate_CO2fixation_2035'
+➡️ Sheet 'MUs_2013_14' cleaned: -2 rows, -0 cols | kept 39 rows, 8 cols
+➡️ Sheet 'plots results from inventory' cleaned: -0 rows, -1 cols | kept 205 rows, 13 cols
+📊 Loading tabular: GS4210 Final WOS Baguia CO2 Certificate Calculations_ 03-05-2024.xlsx with 22 sheet(s)
+➡️ Sheet 'CO2 Certificates 2023' cleaned: -22 rows, -36 cols | kept 122 rows, 1 cols
+➡️ Sheet '2021 audit certificates' cleaned: -25 rows, -50 cols | kept 123 rows, 1 cols
+➡️ Sheet 'CO2 certificates comparison' cleaned: -3 rows, -16 cols | kept 13 rows, 2 cols
+⚠️ Skipping empty sheet: 'Vintages summary'
+➡️ Sheet 'GS Issuance' cleaned: -0 rows, -4 cols | kept 13 rows, 1 cols
+➡️ Sheet 'CO2 Fixation Summary' cleaned: -1 rows, -22 cols | kept 12 rows, 2 cols
+⚠️ Skipping empty sheet: 'Baseline Carbon Stock'
+➡️ Sheet 'Other Emissions' cleaned: -5 rows, -8 cols | kept 10 rows, 1 cols
+➡️ Sheet 'GIS Area Results' cleaned: -33 rows, -8 cols | kept 43 rows, 2 cols
+➡️ Sheet 'S. album' cleaned: -4 rows, -26 cols | kept 45 rows, 4 cols
+➡️ Sheet 'S. macrophylla' cleaned: -5 rows, -37 cols | kept 45 rows, 6 cols
+➡️ Sheet 'D. nigra' cleaned: -3 rows, -22 cols | kept 42 rows, 5 cols
+➡️ Sheet 'S. foetida' cleaned: -2 rows, -24 cols | kept 44 rows, 3 cols
+➡️ Sheet 'E. urophylla' cleaned: -2 rows, -24 cols | kept 44 rows, 5 cols
+➡️ Sheet 'T. grandis' cleaned: -2 rows, -51 cols | kept 45 rows, 6 cols
+➡️ Sheet 'C. equisetifolia' cleaned: -3 rows, -45 cols | kept 42 rows, 9 cols
+➡️ Sheet 'T.ciliata' cleaned: -2 rows, -22 cols | kept 41 rows, 7 cols
+➡️ Sheet 'GC E. Alba' cleaned: -12 rows, -11 cols | kept 47 rows, 2 cols
+➡️ Sheet 'GC E. Uro' cleaned: -10 rows, -31 cols | kept 121 rows, 1 cols
+➡️ Sheet 'GC S. Macro' cleaned: -12 rows, -58 cols | kept 92 rows, 7 cols
+➡️ Sheet 'GC T. Grandis' cleaned: -30 rows, -34 cols | kept 88 rows, 2 cols
+➡️ Sheet 'GC C. Equis' cleaned: -67 rows, -24 cols | kept 66 rows, 3 cols
+📊 Loading tabular: Ex-ante estimations_ICT_ 3012022.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: Ex-ante estimations_Issuance Control Tool_Nica Forestal 14.11.2019.xlsx with 1 sheet(s)
+⚠️ Skipping empty sheet: 'Ex-Ante CO2Fixation'
+📊 Loading tabular: Ex ante projections.xlsx with 4 sheet(s)
+➡️ Sheet 'MU' cleaned: -0 rows, -8 cols | kept 54 rows, 14 cols
+➡️ Sheet 'AldeaForestal' cleaned: -0 rows, -9 cols | kept 12 rows, 2 cols
+➡️ Sheet 'Inverbosques' cleaned: -0 rows, -9 cols | kept 45 rows, 2 cols
+➡️ Sheet 'Ex ante projection' cleaned: -0 rows, -58 cols | kept 37 rows, 6 cols
+📊 Loading tabular: Bagepalli AR - GS VER Calculations-Vintage years calculations_KB.xlsx with 3 sheet(s)
+⚠️ Skipping empty sheet: 'Summary'
+⚠️ Skipping empty sheet: 'Consolidated'
+➡️ Sheet 'Vintage wise Calculations' cleaned: -0 rows, -35 cols | kept 997 rows, 1 cols
+📊 Loading tabular: 10_Soil carbon analysis_GS5618_2nd perf. cert._all eligible plantations 2009-2018.xlsx with 9 sheet(s)
+⚠️ Skipping empty sheet: 'Read me'
+⚠️ Skipping empty sheet: 'Carbone_Sol'
+⚠️ Skipping empty sheet: 'Analysis'
+⚠️ Skipping empty sheet: 'Area for SOC'
+⚠️ Skipping empty sheet: 'Pivot'
+➡️ Sheet 'Sheet1' cleaned: -0 rows, -0 cols | kept 518 rows, 27 cols
+⚠️ Skipping empty sheet: 'Pivot 1'
+⚠️ Skipping empty sheet: 'Comments'
+⚠️ Skipping empty sheet: 'Applicability'
+📊 Loading tabular: Carbon estimations ex-ante_plantations 2009-2018_v2.0.xlsx with 22 sheet(s)
+➡️ Sheet 'Strates MU' cleaned: -10 rows, -120 cols | kept 96 rows, 4 cols
+⚠️ Skipping empty sheet: 'Parameters'
+➡️ Sheet 'Harvesting schemes' cleaned: -19 rows, -1 cols | kept 56 rows, 34 cols
+➡️ Sheet 'Projects MU VOL - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projects MU CO2 - all' cleaned: -0 rows, -0 cols | kept 3070 rows, 66 cols
+➡️ Sheet 'Projections MU By' cleaned: -0 rows, -26 cols | kept 5903 rows, 32 cols
+➡️ Sheet 'Summary By' cleaned: -1 rows, -1 cols | kept 22 rows, 2 cols
+➡️ Sheet 'Sheet2' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet3' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet4' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Summary Vol' cleaned: -2 rows, -6 cols | kept 38 rows, 3 cols
+➡️ Sheet 'Sheet1' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+➡️ Sheet 'Sheet5' cleaned: -0 rows, -0 cols | kept 1210 rows, 73 cols
+➡️ Sheet 'Sheet6' cleaned: -0 rows, -0 cols | kept 3817 rows, 73 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Summary CO2' cleaned: -22 rows, -12 cols | kept 182 rows, 6 cols
+⚠️ Skipping empty sheet: 'Total Results '
+➡️ Sheet 'SE' cleaned: -0 rows, -4 cols | kept 29 rows, 3 cols
+➡️ Sheet 'EE1' cleaned: -12 rows, -21 cols | kept 58 rows, 1 cols
+➡️ Sheet 'EE2' cleaned: -21 rows, -24 cols | kept 109 rows, 1 cols
+➡️ Sheet 'SE2 Charbon' cleaned: -19 rows, -24 cols | kept 110 rows, 1 cols
+➡️ Sheet 'Feuil1' cleaned: -1 rows, -11 cols | kept 30 rows, 2 cols
+📊 Loading tabular: 180724_CO2_certificates_exante.xlsx with 10 sheet(s)
+➡️ Sheet 'CO2_certificates_Biomass' cleaned: -0 rows, -10 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Biomass' cleaned: -4 rows, -11 cols | kept 36 rows, 11 cols
+➡️ Sheet 'CO2_certificates_Veneer' cleaned: -0 rows, -11 cols | kept 32 rows, 24 cols
+➡️ Sheet 'LTA_Veneer' cleaned: -0 rows, -8 cols | kept 35 rows, 10 cols
+➡️ Sheet 'CO2_certificates_total 25' cleaned: -0 rows, -3 cols | kept 34 rows, 12 cols
+➡️ Sheet 'CO2_certificates_total' cleaned: -8 rows, -4 cols | kept 46 rows, 13 cols
+⚠️ Skipping empty sheet: 'Baseline'
+➡️ Sheet 'Other emissions' cleaned: -0 rows, -8 cols | kept 7 rows, 2 cols
+➡️ Sheet 'Plantation_targets' cleaned: -0 rows, -5 cols | kept 35 rows, 10 cols
+➡️ Sheet 'RC_E' cleaned: -1 rows, -9 cols | kept 44 rows, 2 cols
+📊 Loading tabular: 190130_ER ESTIMATIONS_mpr.xlsx with 12 sheet(s)
+⚠️ Skipping empty sheet: 'Areas'
+⚠️ Skipping empty sheet: 'MAI'
+⚠️ Skipping empty sheet: 'Default values'
+⚠️ Skipping empty sheet: 'Thinning_Prunning'
+⚠️ Skipping empty sheet: 'Wood Lower'
+⚠️ Skipping empty sheet: 'Wood Middle'
+⚠️ Skipping empty sheet: 'Wood Upper'
+⚠️ Skipping empty sheet: 'Agro Lower'
+⚠️ Skipping empty sheet: 'Agro Middle'
+⚠️ Skipping empty sheet: 'Agro Upper'
+⚠️ Skipping empty sheet: 'Summary'
+➡️ Sheet 'ER calculations' cleaned: -1 rows, -7 cols | kept 41 rows, 12 cols

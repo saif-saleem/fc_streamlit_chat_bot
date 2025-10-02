@@ -32,6 +32,10 @@ CHROMA_SPECS = {
         {"path": "app/embeddings_other_documents/carbon_market_general_document", "collection": "carbon_market_general_document"},
         {"path": "app/embeddings_other_documents/IPCC", "collection": "IPCC"},
     ],
+    "gs": [   # ✅ NEWLY ADDED
+        {"path": "app/embeddings_gs/Project_documents", "collection": "Project_documents"},
+        {"path": "app/embeddings_gs/Standard_documents", "collection": "Standard_documents"},
+    ],
 }
 
 # === Cache ===

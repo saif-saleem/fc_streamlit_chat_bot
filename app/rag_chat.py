@@ -19,7 +19,8 @@ def _normalize_standard_key(s):
         "vcs": "vcs", "verra": "vcs",
         "icr": "icr",
         "plan_vivo": "plan_vivo", "planvivo": "plan_vivo",
-        "other": "other"
+        "other": "other",
+        "gs": "gs", "gold_standard": "gs"   # ✅ NEWLY ADDED
     }
     return mapping.get(s_low, None)
 
@@ -34,7 +35,7 @@ def get_answer(query=None, selected_standard=None, follow_up_answer=None,
                original_query=None, model="gpt-4.1", temperature=0.0):
 
     if not selected_standard:
-        return {"clarification": "Please choose a standard: VCS, ICR, PLAN_VIVO, OTHER",
+        return {"clarification": "Please choose a standard: VCS, ICR, PLAN_VIVO, GS, OTHER",
                 "answer": None, "sources": [], "highlights": []}
 
     standard_key = _normalize_standard_key(selected_standard)
