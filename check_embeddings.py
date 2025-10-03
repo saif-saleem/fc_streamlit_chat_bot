@@ -8,7 +8,7 @@ from openai import OpenAI  # ✅ new SDK
 load_dotenv()
 
 # === Config ===
-EMBEDDINGS_DIR = "app/embeddings_gs"
+EMBEDDINGS_DIR = "app/embeddings_other_documents"
 SUBFOLDERS = ["Standard_documents", "Project_documents"]
 OPENAI_MODEL = "gpt-4.1"  # or "gpt-4.1"
 TOP_K = 8  # number of docs per collection
