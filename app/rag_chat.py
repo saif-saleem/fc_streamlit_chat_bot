@@ -67,7 +67,7 @@ def get_answer(query=None, selected_standard=None, follow_up_answer=None,
 
         1. Summarize only the information relevant to the QUESTION.
         2. Write the summary in bullet points.
-        3. If the CHUNK contains reference info (page numbers, section titles, or document names), include it in parentheses.
+        3. Wherever possible, include the exact lines from the CHUNK that support your summary. Also include any other reference information (like page numbers or document names).
 
         {batch_text}
         """
@@ -94,7 +94,7 @@ def get_answer(query=None, selected_standard=None, follow_up_answer=None,
     - Write a comprehensive, exhaustive, and well-structured answer to the QUESTION.
     - Present the answer in a numbered or bulleted format.
     - Merge overlapping points but do not drop unique details.
-    - Always cite references in parentheses if present (e.g., Page 12, Section 4.2, Project Document).
+    - Always cite references in parentheses if present (e.g., Page 12, Section 4.2, document names).
     - Organize the answer by themes or categories if multiple aspects are present.
 
     PARTIAL SUMMARIES:
